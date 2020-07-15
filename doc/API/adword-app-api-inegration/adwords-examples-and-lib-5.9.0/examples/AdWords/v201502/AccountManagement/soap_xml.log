@@ -1,0 +1,67 @@
+[May 18 2015 08:07:36.000000 - INFO] POST /api/adwords/mcm/v201502/ManagedCustomerService HTTP/1.1
+Host: adwords.google.com
+Connection: Keep-Alive
+User-Agent: PHP-SOAP/5.4.16, gzip
+Accept-Encoding: gzip, deflate
+Content-Encoding: gzip
+Content-Type: text/xml; charset=utf-8
+SOAPAction: ""
+Content-Length: 387
+Authorization: Bearer ya29.dwEDeVm5lGKRAw9kXRXziDedk7B75Wist5s_6Bs07JfBCb2v2wuiMK_G8ZC3CtnRfd9zNGPy9KGXUQ
+
+<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="https://adwords.google.com/api/adwords/cm/v201502" xmlns:ns2="https://adwords.google.com/api/adwords/mcm/v201502">
+  <SOAP-ENV:Header>
+    <ns2:RequestHeader>
+      <ns1:clientCustomerId>810-896-4681</ns1:clientCustomerId>
+      <ns1:developerToken>JVxeZsCLDVtDx9pN47KUcQ</ns1:developerToken>
+      <ns1:userAgent>Assisted Click V 1.0.0.0 (AwApi-PHP/5.9.0, Common-PHP/5.9.0, PHP/5.4.16)</ns1:userAgent>
+    </ns2:RequestHeader>
+  </SOAP-ENV:Header>
+  <SOAP-ENV:Body>
+    <ns2:get>
+      <ns2:serviceSelector>
+        <ns1:fields>CustomerId</ns1:fields>
+        <ns1:fields>Name</ns1:fields>
+      </ns2:serviceSelector>
+    </ns2:get>
+  </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+
+HTTP/1.1 200 OK
+Content-Type: text/xml; charset=UTF-8
+Content-Encoding: gzip
+Date: Mon, 18 May 2015 08:07:42 GMT
+Expires: Mon, 18 May 2015 08:07:42 GMT
+Cache-Control: private, max-age=0
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+Content-Length: 378
+Server: GSE
+
+<?xml version="1.0"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Header>
+    <ns2:ResponseHeader xmlns:ns2="https://adwords.google.com/api/adwords/mcm/v201502" xmlns="https://adwords.google.com/api/adwords/cm/v201502">
+      <requestId>00051656b02e54110adb3361d8002371</requestId>
+      <serviceName>ManagedCustomerService</serviceName>
+      <methodName>get</methodName>
+      <operations>0</operations>
+      <responseTime>390</responseTime>
+    </ns2:ResponseHeader>
+  </soap:Header>
+  <soap:Body>
+    <ns2:getResponse xmlns="https://adwords.google.com/api/adwords/cm/v201502" xmlns:ns2="https://adwords.google.com/api/adwords/mcm/v201502">
+      <ns2:rval>
+        <totalNumEntries>1</totalNumEntries>
+        <Page.Type>ManagedCustomerPage</Page.Type>
+        <ns2:entries>
+          <ns2:name>Lets Move House (New)</ns2:name>
+          <ns2:customerId>8108964681</ns2:customerId>
+        </ns2:entries>
+      </ns2:rval>
+    </ns2:getResponse>
+  </soap:Body>
+</soap:Envelope>
+

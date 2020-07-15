@@ -1,0 +1,2075 @@
+/* ----------------------------------------------------------- */
+/*                         BASICS                              */
+/* ----------------------------------------------------------- */
+
+.hidden {
+    display: none;
+}
+
+.float-left {
+    float: left;
+}
+
+img.float-left {
+    float: left;
+    margin-right: 10px;
+}
+
+.float-right {
+    float: right;
+}
+
+.center {
+    text-align: center;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.separator {
+    height: 20px;
+    width: 100%;
+    z-index: 5;
+}
+
+.separator.large {
+    height: 36px;
+    text-align: center;
+}
+
+.separator.dotted {
+    height: 2px;
+    border-top: 1px dotted #fff;
+    border-style: dotted;
+    background: none;
+}
+
+.circle-wrap {
+    -webkit-border-radius: 50em;
+    -moz-border-radius: 50em;
+    border-radius: 50em;
+}
+
+.border {
+    border: 2px solid #000;
+}
+
+.border.large {
+    border: 10px solid #fff;
+}
+
+.boxsizing {
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+
+.boxsizing img {
+    display: block;
+}
+
+.alignleft {
+    text-align: left;
+}
+
+.preloader {
+    position: relative;
+    width: 32px;
+    height: 32px;
+    margin: 0;
+    background: url(../images/preloader.gif) no-repeat center center;
+    margin: 0 auto;
+}
+
+
+/* ----------------------------------------------------------- */
+/*                      BACKGROUNDS                            */
+/* ----------------------------------------------------------- */
+
+
+#portfolio .wrapper.footer {
+    background: url(../images/footers/portfolio.jpg) 50% 50% no-repeat fixed;
+}
+
+#about .wrapper.footer {
+    background: url(../images/footers/about.jpg) 50% 50% no-repeat fixed;
+}
+
+#blog .wrapper.footer {
+    background: url(../home/1.jpg) 50% 50% no-repeat fixed;
+}
+
+
+.mobile #portfolio .wrapper.footer,
+.mobile #about .wrapper.footer,
+.mobile #blog .wrapper.footer {
+    background-attachment: scroll !important;
+	background-position: 0 0 !important;
+}
+
+
+/* ----------------------------------------------------------- */
+/*                    SECTION HEADERS                          */
+/* ----------------------------------------------------------- */
+
+/*section header*/
+.sectionHeader {
+    text-align: center;
+}
+
+.sectionHeader.inner {
+    margin-top: 40px;
+}
+
+.sectionHeader.nomenu {
+    margin-top: 30px;
+}
+
+.sectionHeader.alignleft {
+    text-align: left;
+}
+
+.sectionHeader p {
+    font-size: 25px;
+    margin: 0 auto;
+    line-height: 1.5em;
+}
+
+.sectionHeader.alignleft p {
+    margin: 0;
+}
+
+
+/* #Tablet (Portrait)
+================================================== */
+
+/* Note: Design for a width of 768px */
+
+@media only screen and (min-width: 768px) and (max-width: 999px) {
+}
+
+
+/*  #Mobile (Portrait)
+================================================== */
+
+/* Note: Design for a width of 320px */
+
+@media only screen and (max-width: 767px) {
+
+    .sectionHeader p {
+        font-size: 20px;
+    }
+
+    .sectionHeader h1 {
+        font-size: 80px;
+        margin-bottom: 10px;
+    };
+}
+
+
+/* #Mobile (Landscape)
+================================================== */
+
+/* Note: Design for a width of 480px */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+    .sectionHeader p {
+        font-size: 25px;
+    }
+
+    .sectionHeader h1 {
+        font-size: 96px;
+    };
+}
+
+
+/* ----------------------------------------------------------- */
+/*                    SECTION FOOTERS                          */
+/* ----------------------------------------------------------- */
+
+.wrapper.footer {
+    height: 400px;
+    width: 100%;
+    position: relative;
+    float: left;
+    overflow: hidden;
+}
+
+.wrapper.footer .footerPattern {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+.wrapper.footer h1, .wrapper.footer p {
+    color: #fff;
+}
+
+.wrapper.footer h2.alt {
+    line-height: 50px;
+}
+
+.wrapper.footer h6 {
+    margin-bottom: 20px;
+}
+
+.wrapper.footer p {
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.wrapper footer.small {
+    padding: 23px 0 20px 0;
+    height: auto;
+}
+
+.wrapper footer.small p {
+    margin-bottom: 0;
+}
+
+/*SECTION FOOTER QUOTES*/
+
+
+.wrapper.footer.quote h2.alt {
+    padding-top: 30px;
+}
+
+.wrapper.footer.quote p {
+    margin-top: 10px;
+    font-size: 25px;
+    line-height: 1.4em;
+}
+
+.wrapper.footer.quote .speech {
+    width: 58px;
+    height: 45px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    background: url('../images/icons/quote.png') no-repeat;
+}
+
+
+/*SECTION FOOTER CLIENTS*/
+
+.wrapper.footer.clients img {
+    -webkit-transition: all 0.2s ease-out;
+    -moz-transition: all 0.2s ease-out;
+    -o-transition: all 0.2s ease-out;
+    -ms-transition: all 0.2s ease-out;
+    transition: all 0.2s ease-out;
+}
+
+.wrapper.footer.clients a:hover img {
+    opacity: .7;
+}
+
+.wrapper.footer.clients .carousel li {
+    display: block;
+}
+
+/*SECTION FOOTER TESTIMONIAL*/
+
+.wrapper.footer.testimonial .carousel li {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.wrapper.footer.testimonial .carousel p {
+    font-size: 25px;
+    line-height: 1.4em;
+}
+
+/*SECTION FOOTER NEWSLETTER*/
+.wrapper.footer.newsletter article:first-child p {
+    margin-top: 20px;
+    font-size: 25px;
+    line-height: 32px;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    .wrapper.footer.newsletter .row-ten {
+        margin-bottom: 0;
+    };
+}
+
+.wrapper.footer.newsletter h2.alt {
+    padding-top: 30px;
+}
+
+
+
+
+/* #Tablet (Portrait)
+================================================== */
+
+/* Note: Design for a width of 768px */
+
+@media only screen and (min-width: 768px) and (max-width: 999px) {
+}
+
+
+/*  #Mobile (Portrait)
+================================================== */
+
+/* Note: Design for a width of 320px */
+
+@media only screen and (max-width: 767px) {
+	
+    .wrapper.footer h2.alt {
+        font-size: 26px;
+        line-height: 40px;
+    }
+
+    .wrapper.footer p,
+	.wrapper.footer.quote p,
+	.wrapper.footer.testimonial .carousel p,
+	.wrapper.footer.newsletter header p {
+        font-size: 16px;
+    };
+}
+
+
+/* #Mobile (Landscape)
+================================================== */
+
+/* Note: Design for a width of 480px */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+}
+
+
+
+
+
+/* ----------------------------------------------------------- */
+/*                      SOCIAL ICONS                           */
+/* ----------------------------------------------------------- */
+.socialIcons {
+    position: relative;
+    display: inline-block;
+    margin: 0 auto;
+    z-index: 2;
+}
+
+.socialIcons li {
+    position: relative;
+    display: inline;
+    list-style: none;
+    text-indent: -9999px;
+    float: left;
+    width: 26px;
+    height: 26px;
+    overflow: hidden;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    -webkit-border-radius: 13px;
+    -moz-border-radius: 13px;
+    border-radius: 13px;
+    background-color: transparent;
+    -webkit-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+    -ms-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+}
+
+.socialIcons li.last {
+    margin-right: 0;
+}
+
+.socialIcons li a {
+    background-repeat: no-repeat;
+    background-position: left top;
+    display: block;
+    height: 30px;
+    width: 30px;
+}
+
+.socialIcons li a:hover {
+    text-decoration: none;
+}
+
+.socialIcons.text li {
+    text-indent: 0;
+    width: auto;
+    height: 36px;
+    background-color: transparent;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+    overflow: visible;
+    padding-top: 10px;
+    padding-right: 8px;
+    cursor: pointer;
+    background-position: 0 5px;
+}
+
+.ie8 .socialIcons.text li {
+    height: 26px;
+}
+
+.socialIcons.text li a {
+    margin-left: 30px;
+    font-size: 15px;
+    display: inline;
+}
+
+@media only screen and (max-width: 767px) {
+	.socialIcons.text li {
+        width: 26px;
+        overflow: hidden;
+        padding:0;
+        background-position: 0 5px;
+      }
+
+}
+
+
+.badoo {background: url('../images/icons/social/badoo.html') no-repeat;}
+.bebo {background: url('../images/icons/social/bebo.png') no-repeat;}
+.blogger {background: url('../images/icons/social/blogger.png') no-repeat;}
+.delicious {background: url('../images/icons/social/delicious.png') no-repeat;}
+.deviant_art {background: url('../images/icons/social/deviant_art.png') no-repeat;}
+.digg {background: url('../images/icons/social/digg.png') no-repeat;}
+.dribble {background: url('../images/icons/social/dribble.png') no-repeat;}
+.email {background: url('../images/icons/social/email.png') no-repeat;}
+.facebook {background: url('../images/icons/social/facebook.png') no-repeat;}
+.flickr {background: url('../images/icons/social/flickr.png') no-repeat;}
+.friendfeed {background: url('../images/icons/social/friendfeed.html') no-repeat;}
+.gmail {background: url('../images/icons/social/gmail.png') no-repeat;}
+.google_plus {background: url('../images/icons/social/google_plus.png') no-repeat;}
+.last_fm {background: url('../images/icons/social/last_fm.png') no-repeat;}
+.linkedin {background: url('../images/icons/social/linkedin.png') no-repeat;}
+.my_space {background: url('../images/icons/social/my_space.png') no-repeat;}
+.picasa {background: url('../images/icons/social/picasa.png') no-repeat;}
+.pinterest {background: url('../images/icons/social/pinterest.png') no-repeat;}
+.reddit {background: url('../images/icons/social/reddit.png') no-repeat;}
+.rss {background: url('../images/icons/social/rss.png') no-repeat;}
+.skype {background: url('../images/icons/social/skype.png') no-repeat;}
+.stumble_upon {background: url('../images/icons/social/stumble_upon.png') no-repeat;}
+.technorati {background: url('../images/icons/social/technorati.html') no-repeat;}
+.tumblr {background: url('../images/icons/social/tumblr.png') no-repeat;}
+.twitter {background: url('../images/icons/social/twitter.png') no-repeat;}
+.vimeo {background: url('../images/icons/social/vimeo.png') no-repeat;}
+.yahoo_mail {background: url('../images/icons/social/yahoo_mail.png') no-repeat;}
+.you_tube {background: url('../images/icons/social/you_tube.png') no-repeat;}
+
+
+
+
+/* #add this share
+================================================== */
+
+.addthis_button_facebook_like {
+    width: 75px;
+}
+
+.addthis_button_tweet {
+    width: 85px;
+}
+
+.addthis_button_google_plusone {
+    width: 65px;
+}
+
+
+/* ----------------------------------------------------------- */
+/*                        HOME PAGE                            */
+/* ----------------------------------------------------------- */
+
+
+@media only screen and (max-width: 767px) {
+
+
+}
+
+
+#home {
+    position: relative;
+    height: 100%;
+    text-align: center;
+}
+
+.ie8 #home {
+    min-width: 1000px;
+}
+
+.txtfx {
+    font-size: 36px;
+    line-height: 36px;
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    margin-left: 0px;
+    margin-top: 85px;
+    text-align: center;
+    z-index: -99;
+}
+
+.footer .txtfx {
+    position: absolute;
+    left: 50%;
+    top: 170px;
+    font-size: 60px;
+    line-height: 60px;
+}
+
+
+/* ----------------------------------------------------------- */
+/*                           MENU                              */
+/* ----------------------------------------------------------- */
+
+================================================== */
+
+/* Note: Design for a width of 768px */
+
+@media only screen and (min-width: 768px) and (max-width: 999px) {
+}
+
+
+/*  #Mobile (Portrait)
+================================================== */
+
+
+@media only screen and (max-width: 767px) {
+	
+    .mainnav ul {
+        display: none;
+    }
+
+    .mainnav form {
+        display: inline-block;
+    };
+}
+
+
+
+
+/* ----------------------------------------------------------- */
+/*                         progressbars                              */
+/* ----------------------------------------------------------- */
+
+.progressbars .arc {
+    margin-bottom: 7px;
+    font-weight: 300;
+}
+
+.ie8 .progressbars .arc {
+    display: inline-block;
+}
+
+
+/* ----------------------------------------------------------- */
+/*                     PORTFOLIO PAGE                          */
+/* ----------------------------------------------------------- */
+#portfolio figure {
+    cursor: pointer;
+}
+
+#portfolio figure img {
+    position: relative;
+    float: left;
+}
+.figcaption-content{position: absolute;
+       color:White;
+       z-index:999;
+	       opacity: 0.8;
+	   }
+
+figcaption {
+	width: 137px;
+	height: 25px;
+display:block;
+	padding:5px 15px;
+    position: absolute;
+	z-index: 1;
+    float: left;
+	background:#6e0c19;
+    filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr='#CCFFFFFF', endColorstr='#CCFFFFFF');
+    text-align: center;
+    -webkit-transition: all 0.4s ease-out;
+    -moz-transition: all 0.4s ease-out;
+    -o-transition: all 0.4s ease-out;
+    -ms-transition: all 0.4s ease-out;
+    transition: all 0.4s ease-out;
+        opacity: 0.8;
+	z-index: 999;
+	visibility: visible;
+	position: !important;
+	cursor: pointer;
+	margin-top: 129px;
+}
+
+figcaption p {
+    font-size: 12px;
+    line-height: 12px;
+	 position:relative;
+       color:White;
+       z-index:1999;
+	   opacity: 1;
+}
+
+#portfolio figure:hover figcaption,
+#portfolio figure.selected figcaption{
+	background:#6e0c19;
+    opacity: 0.8;
+top:0px;
+padding-top:0;
+margin-top:0;
+height:159px;
+}
+figcaption:hover .zoom {
+display:block;
+}
+.zoom {
+display:none;
+margin:0 auto;
+padding:40px 0 0 0;
+height:50px;
+width:50px;
+}
+.zoom img {
+width:100%;
+}
+.ie8 figcaption {
+    display: block !important;
+}
+
+.ie8 #portfolio figure:hover figcaption,
+.ie8 #portfolio figure.selected figcaption{
+    display: block;
+}
+
+.portfolioSingle {
+    position: relative;
+    float: left;
+}
+
+.portfolioSingle .separator {
+    margin-bottom: 16px;
+}
+
+.portfolioSingle h4 {
+    font-family: 'Droid Sans', sans-serif;
+    margin-bottom: 12px;
+}
+
+.portfolioSingle h3 {
+    margin-bottom: 10px;
+}
+
+.portfolioSingle nav {
+    height: 18px;
+    position: absolute;
+    display: block;
+    right: 20px;
+    top: -28px;
+}
+
+.portfolioSingle nav .prev,
+.portfolioSingle nav .next,
+.portfolioSingle nav .close,
+.portfolioSingle nav .link {
+    position: relative;
+    display: inline;
+    float: left;
+    cursor: pointer;
+    width: 18px;
+    height: 18px;
+    overflow: hidden;
+    margin-left: 10px;
+    -webkit-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+    -ms-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+}
+
+.portfolioSingle nav .prev {
+    background: url('../images/icons/singlePrev.png') no-repeat;
+}
+
+.portfolioSingle nav .next {
+    background: url('../images/icons/singleNext.png') no-repeat;
+}
+
+.portfolioSingle nav .close {
+    background: url('../images/icons/singleClose.png') no-repeat;
+}
+
+.portfolioSingle nav .link {
+    background: url('../images/icons/link.html') no-repeat;
+}
+
+
+
+/* ----------------------------------------------------------- */
+/*                      CONTACT PAGE                           */
+/* ----------------------------------------------------------- */
+
+
+/* contact form */
+
+.contactInfo p {
+    font-size: 25px;
+    line-height: 35px;
+}
+
+.contactInfo a {
+    padding-bottom: 4px;
+}
+
+.contactInfo h2{
+ margin-bottom: 10px;	
+}
+
+.contactForm hr {
+    color: inherit;
+    height: 0;
+    margin: 6px 0 6px 0;
+    padding: 0;
+}
+
+.contactForm h2 {
+	margin-bottom: 18px;
+}
+
+.quote span.black {
+    display: inline-block;
+    margin-bottom: 8px;
+}
+
+
+
+/* Form style */
+
+.contactForm p.info {
+    display: inline;
+}
+
+.contactForm label {
+    display: inline-block;
+    float: left;
+    height: 26px;
+    width: 155px;
+}
+
+.contactForm label input {
+    display: inline-block;
+    float: left;
+    height: 18px;
+}
+
+.contactForm input, select {
+    width: 215px;
+    margin: 0;
+    padding: 10px 5px 10px 4px;
+    margin-bottom: 10px;
+}
+
+.contactForm input.right-ten {
+    margin-right: 10px;
+}
+
+.contactForm select {
+    width: 225px;
+}
+
+.contactForm textarea {
+    width: 100%;
+    margin-bottom: 5px;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+ /* Firefox */
+    -webkit-box-sizing: border-box;
+ /* Safari */;
+}
+
+.contactForm input[type="text"], .contactForm textarea {
+    border: 3px solid transparent;
+    -webkit-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+    -ms-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+}
+
+.contactForm input.submit {
+    margin-top: 5px;
+    float: right;
+    line-height: 14px;
+    font-weight: normal;
+    width: auto;
+    padding: 21px 18px 22px 18px;
+    cursor: pointer;
+    border: 0px solid #fff;
+    -webkit-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+    -ms-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+}
+
+@-moz-document url-prefix() {
+    .contactForm input.submit {
+        padding: 12px 18px 13px 18px;
+    };
+}
+
+.contactForm input[type="submit"][disabled] {
+    background: #888;
+    cursor: default;
+}
+
+.contactForm fieldset {
+}
+
+.contactForm label.radio {
+    display: block;
+    width: 100%;
+    margin: 0px 0 0px 0;
+}
+
+.contactForm #verifyImage {
+    width: auto;
+    margin: -5px 20px 0 0px;
+    float: left;
+}
+
+.contactForm #verifyImage img {
+    border: none;
+}
+
+.contactForm #verify {
+    width: auto;
+    margin: -5px 20px 0 0;
+    float: left;
+}
+
+.contactForm p {
+    margin-bottom: 8px;
+}
+
+.verifyText {
+    margin-top: 3px;
+    margin-bottom: 40px;
+}
+
+.contactForm span.required {
+    font-size: 13px;
+} /* Select the colour of the * if the field is required. */
+
+#message {
+    margin: 10px 0;
+    padding: 0;
+}
+
+.error_message {
+    display: block;
+    line-height: 22px;
+    border: none;
+    background: none;
+    padding: 0;
+    margin-bottom: 20px;
+}
+
+ul.error_messages {
+    margin: 0 0 0 0px;
+    padding: 0;
+}
+
+ul.error_messages li {
+    line-height: 22px;
+}
+
+.loader {
+    padding: 0 10px;
+}
+
+.contactForm #success_page {
+    display: block;
+    line-height: 22px;
+    border: 1px solid #6dd900;
+    background: #c8f7a8 url(../images/icons/success.html) no-repeat 15px 12px;
+    padding: 14px 15px;
+    padding-left: 55px;
+    color: #000;
+}
+
+input[type="checkbox"] {
+    width: 20px !important;
+    margin: 4px 0 0;
+    margin-top: 1px \9;
+    float: left;
+    *margin-top: 0;
+    line-height: normal;
+    cursor: pointer;
+}
+
+input[type="radio"] {
+    width: 20px !important;
+}
+
+.error_message h2 {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 24px;
+    color: #f00;
+}
+
+.contactForm #success_page h2 {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 24px;
+    color: #00b200;
+}
+
+.contactForm #success_page {
+    display: block;
+    line-height: 22px;
+    border: none;
+    background: none;
+    padding: 0;
+    color: #000;
+}
+
+
+
+/* All Mobile Sizes (devices and browser) */
+@media only screen and (max-width: 767px) {
+
+
+  
+    .contactForm #verifyImage {
+        margin: 0px 10px 0 0px;
+    }
+
+    .contactForm #verify {
+        margin: 0px 0px 0 0;
+    }
+
+    .verifyText {
+        margin-top: 4px;
+    }
+
+    .twelve.columns .contactForm #verifyImage {
+        margin: 0px 0px 10px 0px;
+    };
+}
+
+	/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	
+
+  
+    .contactForm #verifyImage {
+        margin: 5px 10px 0 0px;
+    }
+
+    .contactForm #verify {
+        margin: 5px 10px 0 0;
+    }
+
+    .verifyText {
+        margin-top: 5px;
+    }
+
+    .twelve.columns .contactForm #verifyImage {
+        margin: 5px 10px 0 0px;
+    };
+}	
+/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+@media only screen and (max-width: 479px) {
+}
+
+
+/* ----------------------------------------------------------- */
+/*                          BLOG                               */
+/* ----------------------------------------------------------- */
+
+.blog .date {
+    width: 80px;
+    height: 80px;
+    font-size: 12px;
+    float: left;
+    text-align: center;
+    font-weight: 700;
+    margin-right: 16px;
+}
+
+.blog .date .day {
+    font: 26px/26px 'Oswald', sans-serif;
+    display: block;
+    margin-top: 14px;
+}
+
+.blog .excerpt, .blog .title {
+    padding-left: 104px;
+}
+
+/*
+.blog .excerpt h3, .blog .title h3 {
+    padding-top: 7px;
+    margin-bottom: 8px;
+}
+*/
+.blog .excerpt h3, .blog .title h3 {
+  line-height: 46px;
+  margin-bottom: 8px;
+}
+
+.blog .excerpt h3 a {
+    -webkit-transition: all 0.2s ease-out;
+    -moz-transition: all 0.2s ease-out;
+    -o-transition: all 0.2s ease-out;
+    -ms-transition: all 0.2s ease-out;
+    transition: all 0.2s ease-out;
+}
+
+
+
+.blog .excerpt .meta, .blog .title .meta {
+    margin-bottom: 7px;
+    font-size: 12px;
+}
+
+.blog .title .meta {
+    margin-bottom: 2px;
+}
+
+.blog  .meta a {
+    padding-bottom: 2px;
+}
+
+.blog .excerpt p {
+    margin-bottom: 15px;
+}
+
+.blog .button {
+    margin-bottom: 0;
+}
+
+.pagination {
+    position: relative;
+    text-align: center;
+}
+
+
+.pagination ul {
+    margin: 0;
+    list-style: none;
+}
+
+.pagination li a {
+    -webkit-transition: all 0.2s ease-out;
+    -moz-transition: all 0.2s ease-out;
+    -o-transition: all 0.2s ease-out;
+    -ms-transition: all 0.2s ease-out;
+    transition: all 0.2s ease-out;
+}
+
+.pagination li {
+
+    float: left;
+    display: block;
+    padding: 5px 10px;
+    margin-left: 1px;
+    cursor: pointer;
+    -webkit-transition: all 0.2s ease-out;
+    -moz-transition: all 0.2s ease-out;
+    -o-transition: all 0.2s ease-out;
+    -ms-transition: all 0.2s ease-out;
+    transition: all 0.2s ease-out;
+}
+
+.pagination li.active {
+    cursor: default;
+}
+
+
+
+.pagination li.selected {
+    cursor: default;
+}
+
+.pagination span {
+    text-align: left;
+    display: inline-block;
+    float: left;
+    margin-left: 10px;
+    font-size: 20px;
+    line-height: 20px;
+    font-family: 'Oswald', sans-serif;
+    padding: 5px 0;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    .pagination {
+        padding-top: 30px;
+    }
+
+	.pagination.row-eighty {
+			margin-bottom: 50px;
+	}
+
+
+}
+
+
+/* ----------------------------------------------------------- */
+/*                         WIDGETS                             */
+/* ----------------------------------------------------------- */
+
+.widget.search input[type="text"] {
+    border: 1px solid transparent;
+    width: 142px;
+    padding: 13px 15px 12px 15px;
+    float: left;
+    margin: 0;
+    -webkit-transition: all 0.2s ease-out;
+    -moz-transition: all 0.2s ease-out;
+    -o-transition: all 0.2s ease-out;
+    -ms-transition: all 0.2s ease-out;
+    transition: all 0.2s ease-out;
+}
+
+
+.widget.search form {
+    border: 3px solid #eee;
+    float: left;
+    -webkit-transition: all 0.2s ease-out;
+    -moz-transition: all 0.2s ease-out;
+    -o-transition: all 0.2s ease-out;
+    -ms-transition: all 0.2s ease-out;
+    transition: all 0.2s ease-out;
+}
+
+.widget.search form.focus {
+    border: 3px solid #f1d96a;
+}
+
+.widget.search input[type="submit"] {
+    width: 45px;
+    height: 45px;
+    padding: 0;
+    margin: 0;
+    border: none;
+    float: left;
+    cursor: pointer;
+    background: #eeeeee url('../images/icons/search.png') no-repeat 14px 14px;
+    -webkit-transition: all 0.2s ease-out;
+    -moz-transition: all 0.2s ease-out;
+    -o-transition: all 0.2s ease-out;
+    -ms-transition: all 0.2s ease-out;
+    transition: all 0.2s ease-out;
+}
+
+.widget.search form.focus input[type="submit"] {
+    background: #fff url('../images/icons/search.png') no-repeat 14px 14px;
+}
+
+.widget h4 {
+    margin-bottom: 18px;
+}
+
+.widget.menu ul {
+    border-bottom: 1px dotted #777;
+}
+
+.widget.menu li {
+    font-size: 12px;
+    padding: 8px 0;
+    border-top: 1px dotted #777;
+}
+
+.widget.menu li a {
+    padding-bottom: 2px;
+}
+
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    .widget.text p {
+        padding-bottom: 20px;
+    }
+
+    .widget.menu {
+        padding-bottom: 5px;
+    };
+	
+
+}
+
+.tags li {
+    display: inline-block;
+    margin-bottom: 3px;
+    -webkit-transition: all 0.4s ease-out;
+    -moz-transition: all 0.4s ease-out;
+    -o-transition: all 0.4s ease-out;
+    -ms-transition: all 0.4s ease-out;
+    transition: all 0.4s ease-out;
+}
+
+.tags li a {
+    display: inline-block;
+    padding: 6px 8px;
+    -webkit-transition: all 0.4s ease-out;
+    -moz-transition: all 0.4s ease-out;
+    -o-transition: all 0.4s ease-out;
+    -ms-transition: all 0.4s ease-out;
+    transition: all 0.4s ease-out;
+}
+
+
+
+/* All Mobile Sizes (devices and browser) */
+@media only screen and (max-width: 767px) {
+
+    .widget.search input[type="text"] {
+        width: 187px;
+    };
+}
+
+	/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	
+    .widget.search input[type="text"] {
+        width: 307px;
+    };
+}
+
+/* ----------------------------------------------------------- */
+/*                   MAILCHIMP NEWSLETTER                      */
+/* ----------------------------------------------------------- */
+.mailchimp .separator {
+    width: 306px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.mailchimp {
+    text-align: center;
+    position: relative;
+    margin: 0 auto;
+}
+
+.mailchimp p {
+    margin-bottom: 0;
+}
+
+.mailchimp input[type="text"] {
+    margin: 0 auto;
+    background: transparent;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+    width: 306px;
+    font-family: 'Droid Sans', sans-serif;
+}
+
+.mcresult {
+    color: #fff;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+}
+
+.mailchimp input[type="submit"] {
+    border-width: 0px;
+    margin: 0;
+    padding: 7px 20px 8px 20px;
+}
+
+@-moz-document url-prefix() {
+    .mailchimp input[type="submit"] {
+        padding: 11px;
+    };
+}
+
+
+
+
+/*  #Mobile (Portrait)
+================================================== */
+
+/* Note: Design for a width of 320px */
+
+@media only screen and (max-width: 767px) {
+    .mailchimp .separator {
+        width: 270px;
+    };
+}
+
+
+/* #Mobile (Landscape)
+================================================== */
+
+/* Note: Design for a width of 480px */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+    .mailchimp .separator {
+        width: 306px;
+    };
+}
+
+
+
+/* ----------------------------------------------------------- */
+/*                         progressbars                              */
+/* ----------------------------------------------------------- */
+
+.progressbars .under, .progressbars .over {
+    position: absolute;
+    display: block;
+    height: 10px;
+}
+
+.progressbars .under {
+    width: 100%;
+}
+
+.progressbars .over {
+    width: 0;
+}
+
+.progressbars li {
+    margin-bottom: 30px;
+}
+
+.progressbars li h5 {
+    margin-bottom: 2px;
+}
+
+
+/* ----------------------------------------------------------- */
+/*                           TABS                              */
+/* ----------------------------------------------------------- */
+
+.ui-tabs {
+    zoom: 1;
+}
+
+.ui-tabs ul {
+}
+
+.ui-tabs .ui-tabs-nav {
+    list-style: none;
+    position: relative;
+    overflow: hidden;
+    margin: 0;
+}
+
+.ui-tabs .ui-tabs-nav li {
+    position: relative;
+    float: left;
+    border: 1px solid #ddd;
+    border-left: none;
+	border-bottom: none;
+    -webkit-transition: all 0.2s ease-out;
+    -moz-transition: all 0.2s ease-out;
+    -o-transition: all 0.2s ease-out;
+    -ms-transition: all 0.2s ease-out;
+    transition: all 0.2s ease-out;
+}
+
+.ui-tabs .ui-tabs-nav li:first-child {
+    border: 1px solid #ddd;
+	border-bottom: none;
+}
+
+.ui-tabs .ui-tabs-nav li:last-child {
+}
+
+.ui-tabs .ui-tabs-nav li a {
+    float: left;
+    text-decoration: none;
+    padding: 10px 10px;
+    color: #777;
+    font-weight: 700;
+    font-size: 13px;
+    -webkit-transition: all 0.2s ease-out;
+    -moz-transition: all 0.2s ease-out;
+    -o-transition: all 0.2s ease-out;
+    -ms-transition: all 0.2s ease-out;
+    transition: all 0.2s ease-out;
+}
+
+.ui-tabs .ui-tabs-nav 
+li.ui-tabs-active a {
+    background: #777;
+    color: #fff;
+}
+
+.ui-tabs .ui-tabs-nav 
+li.ui-tabs-active {
+    border-color: #777;
+	border-bottom: 1px solid #777;
+}
+
+.ui-tabs .ui-tabs-panel {
+    display: block;
+    border-width: 0;
+    position: relative;
+    height: auto !important;
+    border: 1px solid #ddd;
+    margin-top: -1px;
+}
+
+.ui-tabs .ui-tabs-panel img {
+    border: 2px solid transparent;
+    -webkit-transition: all 0.2s ease-out;
+    -moz-transition: all 0.2s ease-out;
+    -o-transition: all 0.2s ease-out;
+    -ms-transition: all 0.2s ease-out;
+    transition: all 0.2s ease-out;
+}
+
+.ui-tabs .ui-tabs-panel ul {
+    margin: 0;
+}
+
+.ui-tabs .ui-tabs-panel li {
+    border-bottom: 1px dotted #777;
+    padding: 10px;
+    cursor: pointer;
+    -webkit-transition: all 0.2s ease-out;
+    -moz-transition: all 0.2s ease-out;
+    -o-transition: all 0.2s ease-out;
+    -ms-transition: all 0.2s ease-out;
+    transition: all 0.2s ease-out;
+	min-height: 56px;
+}
+
+.ui-tabs .ui-tabs-panel li.last {
+    margin-bottom: 0px;
+    border: none;
+}
+
+.ui-tabs .ui-tabs-panel li:hover {
+    background-color: #f1d96a;
+}
+
+.ui-tabs .ui-tabs-panel li:hover > a img {
+    border-color: #000;
+}
+
+.ui-tabs .ui-tabs-panel li:hover p,
+.ui-tabs .ui-tabs-panel li:hover small {
+    color: #000;
+}
+
+.ui-tabs .ui-tabs-panel p {
+    font-size: 12px;
+    margin-bottom: 0;
+    line-height: 19px;
+}
+
+.ui-tabs .ui-tabs-panel p img {
+    float: left;
+    margin-right: 10px;
+}
+
+.ui-tabs .ui-tabs-hide {
+    display: none !important;
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	
+    .tabs div li {
+        min-height: 53px;
+    };
+}
+
+
+/* ----------------------------------------------------------- */
+/*                       TEAM MEMBER                           */
+/* ----------------------------------------------------------- */
+
+.teamMember {
+    position: relative;
+}
+
+.teamMember h5 {
+    margin-left: 2px;
+}
+
+.teamMember img {
+    margin-bottom: 14px;
+    float: left;
+    margin-right: 15px;
+}
+
+.teamMember p {
+    margin: 0;
+}
+
+.teamMember .socialIcons, .teamMember ul.socialIcons {
+    margin-top: 6px;
+    margin-bottom: 0;
+}
+
+.teamMember .socialIcons li {
+    margin-bottom: 2px;
+}
+
+.teamMember small {
+    margin-bottom: 5px;
+}
+
+
+
+/* ----------------------------------------------------------- */
+/*                      FLEX SLIDER                            */
+/* ----------------------------------------------------------- */
+
+
+/*
+ * jQuery FlexSlider v2.0
+ * http://www.woothemes.com/flexslider/
+ *
+ * Copyright 2012 WooThemes
+ * Free to use under the GPLv2 license.
+ * http://www.gnu.org/licenses/gpl-2.0.html
+ *
+ * Contributing author: Tyler Smith (@mbmufffin)
+ */
+
+ 
+/* Browser Resets */
+.flex-container a:active,
+.flexslider a:active,
+.flex-container a:focus,
+.flexslider a:focus {
+    outline: none;
+}
+
+.slides,
+.flex-control-nav,
+.flex-direction-nav {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+} 
+
+/* FlexSlider Necessary Styles
+*********************************/ 
+.flexslider {
+    margin: 0;
+    padding: 0;
+}
+
+.flexslider .slides > li {
+    display: none;
+    -webkit-backface-visibility: hidden;
+} /* Hide the slides before the JS is loaded. Avoids image jumping */
+.flexslider .slides img {
+    width: 100%;
+    display: block;
+}
+
+.flex-pauseplay span {
+    text-transform: capitalize;
+}
+
+/* Clearfix for the .slides element */
+.slides:after {
+    content: ".";
+    display: block;
+    clear: both;
+    visibility: hidden;
+    line-height: 0;
+    height: 0;
+}
+
+html[xmlns] .slides {
+    display: block;
+}
+
+* html .slides {
+    height: 1%;
+}
+
+/* No JavaScript Fallback */
+/* If you are not using another script, such as Modernizr, make sure you
+ * include js that eliminates this class on page load */
+.no-js .slides > li:first-child {
+    display: block;
+}
+
+
+/* FlexSlider Default Theme
+*********************************/
+.flexslider {
+    background: #fff;
+    position: relative;
+    zoom: 1;
+    overflow: hidden;
+}
+
+.flexslider.small {
+    border: none;
+}
+
+.flexslider.small + h4 {
+    margin-top: 15px;
+}
+
+.flex-viewport {
+    max-height: 2000px;
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    transition: all 1s ease;
+}
+
+.loading .flex-viewport {
+    max-height: 300px;
+}
+
+.flexslider .slides {
+    zoom: 1;
+}
+
+
+
+
+/* Direction Nav */
+.flex-direction-nav {
+    *height: 0;
+}
+
+.flex-direction-nav a {
+    width: 40px;
+    height: 40px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    margin: 20px 10px -20px 10px;
+    display: block;
+    position: absolute;
+    bottom: 50%;
+    cursor: pointer;
+    text-indent: -9999px;
+    -webkit-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+    -ms-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+}
+
+.flexslider.small .flex-direction-nav a {
+    width: 30px;
+    height: 30px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+    bottom: 30px;
+}
+
+
+/*
+.arrowvisible .flex-direction-nav a {
+    opacity: 0.8;
+}
+*/
+.flex-direction-nav .flex-next {
+    background: #333 url(../images/icons/flexRight.png) no-repeat center center;
+    right: 0px;
+}
+
+.flex-direction-nav .flex-prev {
+    background: #333 url(../images/icons/flexLeft.png) no-repeat center center;
+    left: 0px;
+}
+
+.flexslider:hover .flex-next {
+    right: 0px;
+}
+
+.flexslider:hover .flex-prev {
+    left: 0px;
+}
+
+.flex-direction-nav .flex-disabled {
+    opacity: .3!important;
+    filter: alpha(opacity=30);
+    cursor: default;
+}
+
+/* Control Nav */
+.flex-control-nav {
+    position: absolute;
+    top: -19px;
+    right: 0;
+}
+
+.flexslider.border .flex-control-nav {
+    right: -10px;
+    top: -29px;
+}
+
+.flex-control-nav li {
+    display: inline-block;
+    zoom: 1;
+    *display: inline;
+}
+
+.flex-control-paging li a {
+    width: 8px;
+    height: 8px;
+    display: block;
+    cursor: pointer;
+    text-indent: -9999px;
+    margin-left: 5px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    -webkit-transition: all 0.2s ease-out;
+    -moz-transition: all 0.2s ease-out;
+    -o-transition: all 0.2s ease-out;
+    -ms-transition: all 0.2s ease-out;
+    transition: all 0.2s ease-out;
+}
+
+.flex-control-paging li a.flex-active {
+    cursor: default;
+}
+
+.flex-control-thumbs {
+    margin: 5px 0 0;
+    position: static;
+    overflow: hidden;
+}
+
+.flex-control-thumbs li {
+    width: 25%;
+    float: left;
+    margin: 0;
+}
+
+.flex-control-thumbs img {
+    width: 100%;
+    display: block;
+    opacity: .7;
+    cursor: pointer;
+}
+
+.flex-control-thumbs img:hover {
+    opacity: 1;
+}
+
+.flex-control-thumbs .flex-active {
+    opacity: 1;
+    cursor: default;
+}
+
+@media screen and (max-width: 860px) {
+    .flex-direction-nav .flex-prev {
+        opacity: 1;
+        left: 0;
+    }
+
+    .flex-direction-nav .flex-next {
+        opacity: 1;
+        right: 0;
+    };
+}
+
+
+/* ----------------------------------------------------------- */
+/*                        BUTTONS                              */
+/* ----------------------------------------------------------- */
+.button {
+    font: 20px 'Oswald', sans-serif;
+    font-weight: 300;
+    line-height: 42px;
+    font-weight: normal;
+    display: inline-block;
+    cursor: pointer;
+    position: relative;
+    -webkit-transition: all 0.2s ease-out;
+    -moz-transition: all 0.2s ease-out;
+    -o-transition: all 0.2s ease-out;
+    -ms-transition: all 0.2s ease-out;
+    transition: all 0.2s ease-out;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.button.large {
+    padding: 28px;
+}
+
+.button.normal {
+    padding: 18px 24px;
+}
+
+.button.small {
+    padding: 7px 20px 8px 20px;
+}
+
+@-moz-document url-prefix() {
+    .button.small {
+        padding: 8px 20px 7px 20px;
+    };
+}
+
+/*button colors*/
+
+.button {
+    color: #000;
+    background-color: #000;
+}
+
+.button:hover {
+    color: #fff;
+    text-decoration: none;
+}
+
+.button.reverted {
+    color: #000;
+}
+
+.button.reverted:hover {
+    color: #fff;
+    background-color: #777;
+}
+
+
+
+
+/* ----------------------------------------------------------- */
+/*                         COLORS                              */
+/* ----------------------------------------------------------- */
+
+
+/*#fff*/
+.wrapper.content,
+.socialIcons li:hover,
+.tipsy-inner,
+.widget.search form.focus input[type="submit"],
+.widget.search input[type="text"]:focus{
+    background-color: #fff;
+}
+
+
+.mega-entry .mega-entry-innerwrap,
+.filter,
+.cj-zoom-item {
+    border-color: #fff;
+}
+
+
+
+
+
+.ui-tabs .ui-tabs-panel li:hover > a img {
+	border-color: #000;
+}
+
+
+
+
+a.highlightBg:hover,
+.pagination li,
+.tags li,
+.ui-tabs .ui-tabs-nav 
+li.ui-tabs-active a{
+    background-color: #777;
+}
+
+.widget.menu li,
+.widget.menu ul,
+.ui-tabs .ui-tabs-panel li,
+.ui-tabs .ui-tabs-nav 
+li.ui-tabs-active{
+	border-color: #777;
+}
+
+.separator.dotted {
+    border-top-color: #777;
+}
+
+
+
+
+
+.border.large {
+    border-color: #333;
+}
+
+.flex-direction-nav .flex-next,
+.flex-direction-nav .flex-prev {
+    background-color: #333;
+}
+
+/*#555*/
+.pricingTable,
+.news h3,
+.actionBox h5,
+.pricingTable .features p {
+    color: #555;
+}
+
+.news figure,
+.mainnav {
+    background-color: #555;
+}
+
+
+
+/*#aaa*/
+.miniNavBtn,
+.flex-control-paging li a,
+.acc h4 .icon,
+.acc .acc-selected .icon,
+.mainNavWrapper .socialIcons li:hover,
+.mega-hover:hover .mega-hoverview:hover,
+.mega-hover:hover .mega-hoverlink:hover {
+    background-color: #aaa;
+}
+
+.filter,
+small,
+.mainnav a:hover,
+.mainnav a.selected {
+    color: #aaa;
+}
+
+/*#ccc*/
+.portfolioSingle footer {
+    color: #ccc;
+}
+
+.portfolioSingle footer .back .button,
+.progressbars .under {
+    background-color: #ccc;
+}
+
+
+
+/*#eee*/
+.actionBox,
+.pricingTable,
+p.lead,
+.widget.search input[type="submit"],
+.widget.search form,
+.widget.search input[type="text"]{
+    background-color: #eee;
+}
+
+.widget.search form{
+    border-color: #eee;
+}
+
+/*#ddd*/
+.ui-tabs .ui-tabs-panel,
+.ui-tabs .ui-tabs-nav li:first-child,
+.ui-tabs .ui-tabs-nav li{
+	border-color: #ddd;
+}
+
+
+/*#ebebeb*/
+.contactForm input[type="text"], .contactForm textarea {
+    background-color: #ebebeb;
+}
+
+.contactForm input[type="text"]:focus, .contactForm textarea:focus {
+    background: none;
+}
+
+
+
+
+
+
+
+/*
+///////////////
+HIGHLIGHT COLOR
+///////////////
+*/
+
+.highlightColor,
+h1.highlightColor, 
+h2.highlightColor, 
+h3.highlightColor, 
+h4.highlightColor, 
+h5.highlightColor, 
+h6.highlightColor,
+.filter:hover,
+.filter.selected,
+.portfolioSingle footer .back:hover,
+.news article h3:hover,
+.news article h3.over,
+.news.selected > article h3,
+.acc h4.acc-selected,
+
+
+.highlightBg,
+.portfolioSingle footer .back:hover > .button,
+.news figure:hover,
+.news figure.over,
+.news.selected > figure,
+.progressbars .over,
+.miniNavBtn:hover,
+.miniNavBtn.miniNavSelected,
+.acc .acc-selected .icon,
+.dark .acc .acc-selected .icon,
+.flexslider:hover .flex-next:hover,
+.flexslider:hover .flex-prev:hover,
+.flex-control-paging li a:hover,
+.flex-control-paging li a.flex-active,
+.button:hover,
+.button.reverted,
+.pricingTable header.highlighted,
+.dropCap,
+.separator,
+.teamMember,
+.wrapper footer.small,
+.pagination li:hover,
+.pagination li.active,
+.tags li:hover,
+.widget.menu li a:hover,
+.ui-tabs .ui-tabs-panel li:hover{
+    background-color: #f1d96a;
+}
+
+.filter:hover,
+.filter.selected,
+.actionBox,
+.mega-entry .mega-entry-innerwrap.over,
+.contactForm input:focus,
+textarea:focus, select:focus,
+.widget.search form.focus{
+    border-color: #f1d96a;
+}
+
+.tipsy-arrow {
+    border-top-color: #f1d96a;
+}
+
+
+
+
+
+
+/*
+///////////////
+UPDATES
+///////////////
+*/
+
+
+
+
+
+
+
+
+

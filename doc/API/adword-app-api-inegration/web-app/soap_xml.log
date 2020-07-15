@@ -1,0 +1,273 @@
+[May 18 2015 08:01:08.000000 - INFO] POST /api/adwords/cm/v201502/CampaignService HTTP/1.1
+Host: adwords.google.com
+Connection: Keep-Alive
+User-Agent: PHP-SOAP/5.5.12, gzip
+Accept-Encoding: gzip, deflate
+Content-Encoding: gzip
+Content-Type: text/xml; charset=utf-8
+SOAPAction: ""
+Content-Length: 448
+Authorization: Bearer ya29.dwGJBFQEt0zUWb6n7ftcnL6bY9Z4EusD__7sOyd-eG154Gp3-QWNI7bVl8vYE9qiBZBXNQgwYvbqnQ
+
+<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="https://adwords.google.com/api/adwords/cm/v201502">
+  <SOAP-ENV:Header>
+    <ns1:RequestHeader>
+      <ns1:clientCustomerId>810-896-4681</ns1:clientCustomerId>
+      <ns1:developerToken>JVxeZsCLDVtDx9pN47KUcQ</ns1:developerToken>
+      <ns1:userAgent>Assisted Click V 1.0.0.0 (AwApi-PHP/5.9.0, Common-PHP/5.9.0, PHP/5.5.12)</ns1:userAgent>
+    </ns1:RequestHeader>
+  </SOAP-ENV:Header>
+  <SOAP-ENV:Body>
+    <ns1:get>
+      <ns1:serviceSelector>
+        <ns1:fields>Id</ns1:fields>
+        <ns1:fields>Name</ns1:fields>
+        <ns1:ordering>
+          <ns1:field>Name</ns1:field>
+          <ns1:sortOrder>ASCENDING</ns1:sortOrder>
+        </ns1:ordering>
+        <ns1:paging>
+          <ns1:startIndex>0</ns1:startIndex>
+          <ns1:numberResults>500</ns1:numberResults>
+        </ns1:paging>
+      </ns1:serviceSelector>
+    </ns1:get>
+  </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+
+HTTP/1.1 200 OK
+Content-Type: text/xml; charset=UTF-8
+Content-Encoding: gzip
+Date: Mon, 18 May 2015 06:01:10 GMT
+Expires: Mon, 18 May 2015 06:01:10 GMT
+Cache-Control: private, max-age=0
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+Content-Length: 408
+Server: GSE
+
+<?xml version="1.0"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Header>
+    <ResponseHeader xmlns="https://adwords.google.com/api/adwords/cm/v201502">
+      <requestId>00051654eba15cb00aec9903cb00508d</requestId>
+      <serviceName>CampaignService</serviceName>
+      <methodName>get</methodName>
+      <operations>0</operations>
+      <responseTime>177</responseTime>
+    </ResponseHeader>
+  </soap:Header>
+  <soap:Body>
+    <getResponse xmlns="https://adwords.google.com/api/adwords/cm/v201502">
+      <rval>
+        <totalNumEntries>5</totalNumEntries>
+        <Page.Type>CampaignPage</Page.Type>
+        <entries>
+          <id>269309319</id>
+          <name>LMH - Brand</name>
+        </entries>
+        <entries>
+          <id>262711239</id>
+          <name>LMH - Conveyancing Solicitors</name>
+        </entries>
+        <entries>
+          <id>262711119</id>
+          <name>LMH - Generic Solicitors</name>
+        </entries>
+        <entries>
+          <id>271652679</id>
+          <name>LMH Generic Mortgage Advisors</name>
+        </entries>
+        <entries>
+          <id>271652799</id>
+          <name>LMH Generic Mortgage Brokers</name>
+        </entries>
+      </rval>
+    </getResponse>
+  </soap:Body>
+</soap:Envelope>
+
+[May 18 2015 07:49:23.000000 - INFO] POST /api/adwords/cm/v201502/CampaignService HTTP/1.1
+Host: adwords.google.com
+Connection: Keep-Alive
+User-Agent: PHP-SOAP/5.4.16, gzip
+Accept-Encoding: gzip, deflate
+Content-Encoding: gzip
+Content-Type: text/xml; charset=utf-8
+SOAPAction: ""
+Content-Length: 448
+Authorization: Bearer ya29.dwE4m1GJD8UQQbkPWdtLa7Q-ao_Ifxjif4pCZ3pLzhvzhUkdOp403lWFZAdrQk8qxQ1w231VgQ0cOg
+
+<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="https://adwords.google.com/api/adwords/cm/v201502">
+  <SOAP-ENV:Header>
+    <ns1:RequestHeader>
+      <ns1:clientCustomerId>810-896-4681</ns1:clientCustomerId>
+      <ns1:developerToken>JVxeZsCLDVtDx9pN47KUcQ</ns1:developerToken>
+      <ns1:userAgent>Assisted Click V 1.0.0.0 (AwApi-PHP/5.9.0, Common-PHP/5.9.0, PHP/5.4.16)</ns1:userAgent>
+    </ns1:RequestHeader>
+  </SOAP-ENV:Header>
+  <SOAP-ENV:Body>
+    <ns1:get>
+      <ns1:serviceSelector>
+        <ns1:fields>Id</ns1:fields>
+        <ns1:fields>Name</ns1:fields>
+        <ns1:ordering>
+          <ns1:field>Name</ns1:field>
+          <ns1:sortOrder>ASCENDING</ns1:sortOrder>
+        </ns1:ordering>
+        <ns1:paging>
+          <ns1:startIndex>0</ns1:startIndex>
+          <ns1:numberResults>500</ns1:numberResults>
+        </ns1:paging>
+      </ns1:serviceSelector>
+    </ns1:get>
+  </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+
+HTTP/1.1 200 OK
+Content-Type: text/xml; charset=UTF-8
+Content-Encoding: gzip
+Date: Mon, 18 May 2015 07:49:29 GMT
+Expires: Mon, 18 May 2015 07:49:29 GMT
+Cache-Control: private, max-age=0
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+Content-Length: 410
+Server: GSE
+
+<?xml version="1.0"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Header>
+    <ResponseHeader xmlns="https://adwords.google.com/api/adwords/cm/v201502">
+      <requestId>000516566f02f6a80ac479cade005275</requestId>
+      <serviceName>CampaignService</serviceName>
+      <methodName>get</methodName>
+      <operations>0</operations>
+      <responseTime>184</responseTime>
+    </ResponseHeader>
+  </soap:Header>
+  <soap:Body>
+    <getResponse xmlns="https://adwords.google.com/api/adwords/cm/v201502">
+      <rval>
+        <totalNumEntries>5</totalNumEntries>
+        <Page.Type>CampaignPage</Page.Type>
+        <entries>
+          <id>269309319</id>
+          <name>LMH - Brand</name>
+        </entries>
+        <entries>
+          <id>262711239</id>
+          <name>LMH - Conveyancing Solicitors</name>
+        </entries>
+        <entries>
+          <id>262711119</id>
+          <name>LMH - Generic Solicitors</name>
+        </entries>
+        <entries>
+          <id>271652679</id>
+          <name>LMH Generic Mortgage Advisors</name>
+        </entries>
+        <entries>
+          <id>271652799</id>
+          <name>LMH Generic Mortgage Brokers</name>
+        </entries>
+      </rval>
+    </getResponse>
+  </soap:Body>
+</soap:Envelope>
+
+[May 18 2015 10:40:37.000000 - INFO] POST /api/adwords/cm/v201502/CampaignService HTTP/1.1
+Host: adwords.google.com
+Connection: Keep-Alive
+User-Agent: PHP-SOAP/5.4.16, gzip
+Accept-Encoding: gzip, deflate
+Content-Encoding: gzip
+Content-Type: text/xml; charset=utf-8
+SOAPAction: ""
+Content-Length: 448
+Authorization: Bearer ya29.dwFs6Q2arv5hE108Jr4H_xHs9daULYAt1rPtPSFF3DtHWjQEqeMZbA942l2zZYACM_kZ0Al4QSbz2Q
+
+<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="https://adwords.google.com/api/adwords/cm/v201502">
+  <SOAP-ENV:Header>
+    <ns1:RequestHeader>
+      <ns1:clientCustomerId>810-896-4681</ns1:clientCustomerId>
+      <ns1:developerToken>JVxeZsCLDVtDx9pN47KUcQ</ns1:developerToken>
+      <ns1:userAgent>Assisted Click V 1.0.0.0 (AwApi-PHP/5.9.0, Common-PHP/5.9.0, PHP/5.4.16)</ns1:userAgent>
+    </ns1:RequestHeader>
+  </SOAP-ENV:Header>
+  <SOAP-ENV:Body>
+    <ns1:get>
+      <ns1:serviceSelector>
+        <ns1:fields>Id</ns1:fields>
+        <ns1:fields>Name</ns1:fields>
+        <ns1:ordering>
+          <ns1:field>Name</ns1:field>
+          <ns1:sortOrder>ASCENDING</ns1:sortOrder>
+        </ns1:ordering>
+        <ns1:paging>
+          <ns1:startIndex>0</ns1:startIndex>
+          <ns1:numberResults>500</ns1:numberResults>
+        </ns1:paging>
+      </ns1:serviceSelector>
+    </ns1:get>
+  </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+
+HTTP/1.1 200 OK
+Content-Type: text/xml; charset=UTF-8
+Content-Encoding: gzip
+Date: Mon, 18 May 2015 10:40:43 GMT
+Expires: Mon, 18 May 2015 10:40:43 GMT
+Cache-Control: private, max-age=0
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+Content-Length: 412
+Server: GSE
+
+<?xml version="1.0"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Header>
+    <ResponseHeader xmlns="https://adwords.google.com/api/adwords/cm/v201502">
+      <requestId>00051658d3699b400ac43f49360077ff</requestId>
+      <serviceName>CampaignService</serviceName>
+      <methodName>get</methodName>
+      <operations>0</operations>
+      <responseTime>205</responseTime>
+    </ResponseHeader>
+  </soap:Header>
+  <soap:Body>
+    <getResponse xmlns="https://adwords.google.com/api/adwords/cm/v201502">
+      <rval>
+        <totalNumEntries>5</totalNumEntries>
+        <Page.Type>CampaignPage</Page.Type>
+        <entries>
+          <id>269309319</id>
+          <name>LMH - Brand</name>
+        </entries>
+        <entries>
+          <id>262711239</id>
+          <name>LMH - Conveyancing Solicitors</name>
+        </entries>
+        <entries>
+          <id>262711119</id>
+          <name>LMH - Generic Solicitors</name>
+        </entries>
+        <entries>
+          <id>271652679</id>
+          <name>LMH Generic Mortgage Advisors</name>
+        </entries>
+        <entries>
+          <id>271652799</id>
+          <name>LMH Generic Mortgage Brokers</name>
+        </entries>
+      </rval>
+    </getResponse>
+  </soap:Body>
+</soap:Envelope>
+

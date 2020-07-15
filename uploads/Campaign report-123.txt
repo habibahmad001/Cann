@@ -1,0 +1,102 @@
+Hour of day	Day	Device	Campaign state	Campaign	Budget	Status	Campaign Type	Campaign sub-type	Clicks	Impressions	CTR	Avg. CPC	Cost	Avg. position	Converted clicks	Cost / converted click	Click conversion rate	View-through Conv.	Search Impr. share	Search Lost IS (rank)	Search Lost IS (budget)	Content Impr. share	Content Lost IS (rank)	Content Lost IS (budget)							
+22	2/2/2015	Computers	Enabled	Generic Car Leasing	40	eligible	Search Only	All features	0	0	0.00%	0	0	0	0	0	0.00%	0	< 10%	0.00%	> 90%	 --	 --	 --							
+22	2/10/2015	Mobile devices with full browsers	Enabled	Generic Car Leasing	40	eligible	Search Only	All features	0	0	0.00%	0	0	0	0	0	0.00%	0	< 10%	0.00%	> 90%	 --	 --	 --							
+4	1/10/2015	Computers	Enabled	Generic Car Leasing	40	eligible	Search Only	All features	0	2	0.00%	0	0	3	0	0	0.00%	0	33.33%	16.67%	50.00%	 --	 --	 --			6.00060006	4.00060006	1.00030003	3.00030003	0
+15	2/24/2015	Mobile devices with full browsers	Enabled	Generic Car Leasing	40	eligible	Search Only	All features	0	1	0.00%	0	0	4	0	0	0.00%	0	< 10%	0.00%	> 90%	 --	 --	 --							
+8	2/3/2015	Tablets with full browsers	Enabled	Generic Car Leasing	40	eligible	Search Only	All features	0	4	0.00%	0	0	3.8	0	0	0.00%	0	80.00%	20.00%	0.00%	 --	 --	 --							
+5	1/18/2015	Computers	Enabled	Generic Car Leasing	40	eligible	Search Only	All features	0	0	0.00%	0	0	0	0	0	0.00%	0	< 10%	25.00%	75.00%	 --	 --	 --							
+23	3/20/2015	Computers	Enabled	Generic Car Leasing	40	eligible	Search Only	All features	0	20	0.00%	0	0	4.6	0	0	0.00%	0	< 10%	6.25%	86.40%	 --	 --	 --							
+3	2/4/2015	Mobile devices with full browsers	Enabled	Generic Car Leasing	40	eligible	Search Only	All features	0	0	0.00%	0	0	0	0	0	0.00%	0	< 10%	0.00%	> 90%	 --	 --	 --							
+22	3/14/2015	Mobile devices with full browsers	Enabled	Vauxhall	10	campaign budget constrained	Search Only	All features	0	0	0.00%	0	0	0	0	0	0.00%	0	< 10%	0.00%	> 90%	 --	 --	 --							
+9	3/26/2015	Tablets with full browsers	Enabled	Personal Leasing Quotes	15	campaign budget constrained	Search Only	Standard	1	2	50.00%	0.74	0.74	2.5	0	0	0.00%	0	< 10%	0.00%	> 90%	 --	 --	 --							
+8	2/24/2015	Computers	Enabled	Personal Leasing Quotes	15	campaign budget constrained	Search Only	Standard	1	3	33.33%	0.59	0.59	2.3	0	0	0.00%	0	100.00%	0.00%	0.00%	 --	 --	 --							
+6	3/25/2015	Computers	Enabled	Personal Leasing Quotes	15	campaign budget constrained	Search Only	Standard	0	9	0.00%	0	0	3.2	0	0	0.00%	0	32.14%	14.29%	53.57%	 --	 --	 --							
+20	2/23/2015	Tablets with full browsers	paused	VW	10.1	campaign paused	Search Only	All features	0	2	0.00%	0	0	4	0	0	0.00%	0	100.00%	0.00%	0.00%	 --	 --	 --							
+18	1/23/2015	Tablets with full browsers	Enabled	Hippo Leasing	89	eligible	Search Only	Standard	1	16	6.25%	0.98	0.98	1.8	0	0	0.00%	0	84.21%	15.79%	0.00%	 --	 --	 --							
+23	3/22/2015	Tablets with full browsers	Enabled	No Deposit Deals	100	eligible	Search Only	All features	0	1	0.00%	0	0	1	0	0	0.00%	0	< 10%	0.00%	> 90%	 --	 --	 --							
+15	1/23/2015	Mobile devices with full browsers	Enabled	No Deposit Deals	100	eligible	Search Only	All features	2	20	10.00%	0.84	1.67	2.7	0	0	0.00%	0	90.91%	9.09%	0.00%	 --	 --	 --							
+0	2/6/2015	Computers	Enabled	No Deposit Deals	100	eligible	Search Only	All features	0	1	0.00%	0	0	1	0	0	0.00%	0	100.00%	0.00%	0.00%	 --	 --	 --							
+3	3/19/2015	Mobile devices with full browsers	Enabled	Hippo Leasing	89	eligible	Search Only	Standard	1	2	50.00%	0.68	0.68	1	0	0	0.00%	0	100.00%	0.00%	0.00%	 --	 --	 --							
+20	1/6/2015	Computers	paused	Ford KA	5	campaign paused	Search Only	All features	0	5	0.00%	0	0	6	0	0	0.00%	0	83.33%	16.67%	0.00%	 --	 --	 --							
+17	2/11/2015	Tablets with full browsers	Enabled	Audi	5	campaign budget constrained	Search Only	All features	0	2	0.00%	0	0	4.5	0	0	0.00%	0	100.00%	0.00%	0.00%	 --	 --	 --							
+4	1/8/2015	Mobile devices with full browsers	paused	Ford KA	5	campaign paused	Search Only	All features	0	2	0.00%	0	0	3	0	0	0.00%	0	100.00%	0.00%	0.00%	 --	 --	 --							
+19	1/24/2015	Computers	Enabled	Audi	5	campaign budget constrained	Search Only	All features	0	3	0.00%	0	0	8.7	0	0	0.00%	0	100.00%	0.00%	0.00%	 --	 --	 --							
+9	1/21/2015	Computers	paused	Ford KA	5	campaign paused	Search Only	All features	0	3	0.00%	0	0	9.7	0	0	0.00%	0	27.27%	72.73%	0.00%	 --	 --	 --							
+22	2/21/2015	Mobile devices with full browsers	paused	Ford KA	5	campaign paused	Search Only	All features	0	2	0.00%	0	0	1.5	0	0	0.00%	0	100.00%	0.00%	0.00%	 --	 --	 --							
+19	3/4/2015	Mobile devices with full browsers	Enabled	Audi	5	campaign budget constrained	Search Only	All features	1	6	16.67%	0.99	0.99	3.8	0	0	0.00%	0	100.00%	0.00%	0.00%	 --	 --	 --							
+12	2/6/2015	Tablets with full browsers	paused	Ford KA	5	campaign paused	Search Only	All features	0	2	0.00%	0	0	4	0	0	0.00%	0	66.67%	33.33%	0.00%	 --	 --	 --							
+15	3/30/2015	Mobile devices with full browsers	Enabled	Audi	5	campaign budget constrained	Search Only	All features	1	2	50.00%	0.98	0.98	2	0	0	0.00%	0	100.00%	0.00%	0.00%	 --	 --	 --							
+22	1/30/2015	Mobile devices with full browsers	Enabled	Audi	5	campaign budget constrained	Search Only	All features	0	3	0.00%	0	0	1	0	0	0.00%	0	100.00%	0.00%	0.00%	 --	 --	 --							
+15	3/9/2015	Computers	Enabled	Audi	5	campaign budget constrained	Search Only	All features	0	5	0.00%	0	0	5.8	0	0	0.00%	0	100.00%	0.00%	0.00%	 --	 --	 --							
+21	1/6/2015	Mobile devices with full browsers	Enabled	Audi	5	campaign budget constrained	Search Only	All features	0	3	0.00%	0	0	3.3	0	0	0.00%	0	100.00%	0.00%	0.00%	 --	 --	 --							
+16	1/16/2015	Mobile devices with full browsers	Enabled	Audi	5	campaign budget constrained	Search Only	All features	0	4	0.00%	0	0	3.5	0	0	0.00%	0	100.00%	0.00%	0.00%	 --	 --	 --							
+15	2/23/2015	Tablets with full browsers	paused	Vauxhall Corsa	4	campaign paused	Search Only	All features	0	3	0.00%	0	0	4	0	0	0.00%	0	100.00%	0.00%	0.00%	 --	 --	 --							
+10	2/3/2015	Mobile devices with full browsers	paused	Vauxhall Corsa	4	campaign paused	Search Only	All features	0	3	0.00%	0	0	4	0	0	0.00%	0	100.00%	0.00%	0.00%	 --	 --	 --							
+13	2/12/2015	Computers	paused	Vauxhall Corsa	4	campaign paused	Search Only	All features	0	7	0.00%	0	0	4.6	0	0	0.00%	0	100.00%	0.00%	0.00%	 --	 --	 --							
+8	3/3/2015	Computers	paused	Vauxhall Corsa	4	campaign paused	Search Only	All features	0	1	0.00%	0	0	3	0	0	0.00%	0	100.00%	0.00%	0.00%	 --	 --	 --							
+17	1/31/2015	Mobile devices with full browsers	paused	Vauxhall Corsa	4	campaign paused	Search Only	All features	0	5	0.00%	0	0	2.8	0	0	0.00%	0	100.00%	0.00%	0.00%	 --	 --	 --							
+2	3/20/2015	Computers	paused	Vauxhall Corsa	4	campaign paused	Search Only	All features	0	1	0.00%	0	0	2	0	0	0.00%	0	100.00%	0.00%	0.00%	 --	 --	 --							
+12	2/5/2015	Mobile devices with full browsers	paused	Vauxhall Corsa	4	campaign paused	Search Only	All features	0	1	0.00%	0	0	3	0	0	0.00%	0	100.00%	0.00%	0.00%	 --	 --	 --							
+0	2/12/2015	Computers	paused	Vauxhall Corsa	4	campaign paused	Search Only	All features	0	1	0.00%	0	0	4	0	0	0.00%	0	100.00%	0.00%	0.00%	 --	 --	 --							
+23	3/14/2015	Mobile devices with full browsers	paused	Vauxhall Corsa	4	campaign paused	Search Only	All features	0	0	0.00%	0	0	0	0	0	0.00%	0	< 10%	0.00%	> 90%	 --	 --	 --							
+22	3/29/2015	Computers	paused	Vauxhall Corsa	4	campaign paused	Search Only	All features	0	0	0.00%	0	0	0	0	0	0.00%	0	< 10%	0.00%	> 90%	 --	 --	 --							
+11	2/26/2015	Mobile devices with full browsers	paused	Vauxhall Corsa	4	campaign paused	Search Only	All features	0	6	0.00%	0	0	2.8	0	0	0.00%	0	100.00%	0.00%	0.00%	 --	 --	 --							
+16	3/27/2015	Computers	paused	Vauxhall Corsa	4	campaign paused	Search Only	All features	1	3	33.33%	0.94	0.94	3	0	0	0.00%	0	60.00%	0.00%	40.00%	 --	 --	 --							
+12	1/23/2015	Computers	paused	Vauxhall Corsa	4	campaign paused	Search Only	All features	0	1	0.00%	0	0	4	0	0	0.00%	0	100.00%	0.00%	0.00%	 --	 --	 --							
+9	3/25/2015	Mobile devices with full browsers	paused	Vauxhall Corsa	4	campaign paused	Search Only	All features	0	1	0.00%	0	0	1	0	0	0.00%	0	100.00%	0.00%	0.00%	 --	 --	 --							
+19	3/28/2015	Mobile devices with full browsers	Enabled	Peugeot	9.8	eligible	Search Only	All features	1	1	100.00%	1.18	1.18	1	0	0	0.00%	0	100.00%	0.00%	0.00%	 --	 --	 --							
+22	1/19/2015	Mobile devices with full browsers	Enabled	Peugeot	9.8	eligible	Search Only	All features	0	2	0.00%	0	0	2.5	0	0	0.00%	0	100.00%	0.00%	0.00%	 --	 --	 --							
+21	3/8/2015	Computers	Enabled	Peugeot	9.8	eligible	Search Only	All features	1	2	50.00%	0.56	0.56	1.5	0	0	0.00%	0	100.00%	0.00%	0.00%	 --	 --	 --							
+15	3/20/2015	Tablets with full browsers	Enabled	Peugeot	9.8	eligible	Search Only	All features	0	1	0.00%	0	0	4	0	0	0.00%	0	100.00%	0.00%	0.00%	 --	 --	 --							
+20	3/3/2015	Computers	Enabled	Peugeot	9.8	eligible	Search Only	All features	0	1	0.00%	0	0	6	0	0	0.00%	0	100.00%	0.00%	0.00%	 --	 --	 --							
+13	3/24/2015	Mobile devices with full browsers	Enabled	Peugeot	9.8	eligible	Search Only	All features	0	2	0.00%	0	0	1.5	0	0	0.00%	0	100.00%	0.00%	0.00%	 --	 --	 --							
+23	3/31/2015	Computers	Enabled	Peugeot	9.8	eligible	Search Only	All features	0	1	0.00%	0	0	4	0	0	0.00%	0	100.00%	0.00%	0.00%	 --	 --	 --							
+14	3/1/2015	Mobile devices with full browsers	Enabled	Peugeot	9.8	eligible	Search Only	All features	0	3	0.00%	0	0	1.7	0	0	0.00%	0	100.00%	0.00%	0.00%	 --	 --	 --							
+10	2/5/2015	Mobile devices with full browsers	Enabled	Peugeot	9.8	eligible	Search Only	All features	0	1	0.00%	0	0	4	0	0	0.00%	0	100.00%	0.00%	0.00%	 --	 --	 --							
+16	1/20/2015	Computers	Enabled	Generic Car Leasing	40	eligible	Search Only	All features	1	29	3.45%	0.76	0.76	2.4	0	0	0.00%	0	< 10%	1.00%	89.37%	 --	 --	 --							
+19	1/15/2015	Computers	Enabled	Generic Car Leasing	40	eligible	Search Only	All features	0	10	0.00%	0	0	2.7	0	0	0.00%	0	< 10%	0.65%	> 90%	 --	 --	 --							
+18	1/22/2015	Mobile devices with full browsers	Enabled	Generic Car Leasing	40	eligible	Search Only	All features	0	0	0.00%	0	0	0	0	0	0.00%	0	< 10%	0.00%	> 90%	 --	 --	 --							
+20	1/23/2015	Mobile devices with full browsers	Enabled	Generic Car Leasing	40	eligible	Search Only	All features	2	16	12.50%	0.61	1.22	1.7	0	0	0.00%	0	35.56%	8.89%	55.56%	 --	 --	 --							
+23	2/9/2015	Computers	Enabled	Generic Car Leasing	40	eligible	Search Only	All features	0	2	0.00%	0	0	2	0	0	0.00%	0	< 10%	0.00%	> 90%	 --	 --	 --							
+7	3/30/2015	Computers	Enabled	Generic Car Leasing	40	eligible	Search Only	All features	0	12	0.00%	0	0	7.8	0	0	0.00%	0	22.64%	71.70%	5.66%	 --	 --	 --							
+13	3/7/2015	Computers	Enabled	Vauxhall	10	campaign budget constrained	Search Only	All features	0	4	0.00%	0	0	4	0	0	0.00%	0	100.00%	0.00%	0.00%	 --	 --	 --							
+21	3/26/2015	Tablets with full browsers	Enabled	Vauxhall	10	campaign budget constrained	Search Only	All features	0	0	0.00%	0	0	0	0	0	0.00%	0	< 10%	0.00%	> 90%	 --	 --	 --							
+7	3/19/2015	Computers	Enabled	Generic Car Leasing	40	eligible	Search Only	All features	2	38	5.26%	0.2	0.41	8.4	0	0	0.00%	0	25.68%	74.32%	0.00%	 --	 --	 --							
+22	1/17/2015	Computers	Enabled	Generic Car Leasing	40	eligible	Search Only	All features	1	1	100.00%	0.43	0.43	1	0	0	0.00%	0	< 10%	0.00%	> 90%	 --	 --	 --							
+9	3/28/2015	Computers	Enabled	Generic Car Leasing	40	eligible	Search Only	All features	1	157	0.64%	0.24	0.24	7.8	0	0	0.00%	0	39.15%	60.10%	0.75%	 --	 --	 --							
+22	2/15/2015	Tablets with full browsers	Enabled	Generic Car Leasing	40	eligible	Search Only	All features	0	0	0.00%	0	0	0	0	0	0.00%	0	< 10%	0.00%	> 90%	 --	 --	 --							
+15	1/14/2015	Computers	Enabled	Generic Car Leasing	40	eligible	Search Only	All features	0	0	0.00%	0	0	0	0	0	0.00%	0	< 10%	0.00%	> 90%	 --	 --	 --							
+13	1/12/2015	Mobile devices with full browsers	Enabled	Remarketing	20	campaign budget constrained	Display Only	Remarketing	3	276	1.09%	0.42	1.26	1	0	0	0.00%	0	 --	 --	 --	< 10%	7.47%	87.80%							
+3	3/14/2015	Tablets with full browsers	Enabled	Remarketing	20	campaign budget constrained	Display Only	Remarketing	0	8	0.00%	0	0	1.3	0	0	0.00%	0	 --	 --	 --	< 10%	18.58%	79.02%							
+0	2/13/2015	Tablets with full browsers	Enabled	Remarketing	20	campaign budget constrained	Display Only	Remarketing	1	151	0.66%	0.43	0.43	1.2	0	0	0.00%	0	 --	 --	 --	< 10%	38.44%	56.18%							
+14	1/4/2015	Mobile devices with full browsers	Enabled	Remarketing	20	campaign budget constrained	Display Only	Remarketing	2	259	0.77%	0.28	0.55	1	0	0	0.00%	0	 --	 --	 --	< 10%	11.52%	82.85%						4341.35524	
+12	2/5/2015	Computers	Enabled	Remarketing	20	campaign budget constrained	Display Only	Remarketing	2	629	0.32%	0.33	0.66	1.2	0	0	0.00%	0	 --	 --	 --	< 10%	21.25%	77.06%							
+20	3/11/2015	Tablets with full browsers	Enabled	Personal Leasing Quotes	15	campaign budget constrained	Search Only	Standard	0	0	0.00%	0	0	0	0	0	0.00%	0	< 10%	0.00%	> 90%	 --	 --	 --							
+22	2/4/2015	Tablets with full browsers	paused	VW	10.1	campaign paused	Search Only	All features	0	1	0.00%	0	0	2	0	0	0.00%	0	50.00%	50.00%	0.00%	 --	 --	 --							
+23	3/28/2015	Tablets with full browsers	Enabled	Personal Leasing Quotes	15	campaign budget constrained	Search Only	Standard	0	0	0.00%	0	0	0	0	0	0.00%	0	< 10%	0.00%	> 90%	 --	 --	 --							
+21	1/2/2015	Tablets with full browsers	Enabled	Personal Leasing Quotes	15	campaign budget constrained	Search Only	Standard	0	0	0.00%	0	0	0	0	0	0.00%	0	< 10%	0.00%	> 90%	 --	 --	 --							
+9	1/6/2015	Mobile devices with full browsers	paused	VW	10.1	campaign paused	Search Only	All features	0	1	0.00%	0	0	3	0	0	0.00%	0	100.00%	0.00%	0.00%	 --	 --	 --							
+6	3/17/2015	Mobile devices with full browsers	Enabled	Personal Leasing Quotes	15	campaign budget constrained	Search Only	Standard	0	1	0.00%	0	0	2	0	0	0.00%	0	< 10%	0.00%	> 90%	 --	 --	 --							
+12	3/26/2015	Mobile devices with full browsers	Enabled	Personal Leasing Quotes	15	campaign budget constrained	Search Only	Standard	0	0	0.00%	0	0	0	0	0	0.00%	0	< 10%	0.00%	> 90%	 --	 --	 --							
+16	1/9/2015	Tablets with full browsers	Enabled	Personal Leasing Quotes	15	campaign budget constrained	Search Only	Standard	0	4	0.00%	0	0	2.5	0	0	0.00%	0	100.00%	0.00%	0.00%	 --	 --	 --							
+9	1/15/2015	Mobile devices with full browsers	paused	VW	10.1	campaign paused	Search Only	All features	0	3	0.00%	0	0	2.7	0	0	0.00%	0	100.00%	0.00%	0.00%	 --	 --	 --							
+14	2/26/2015	Mobile devices with full browsers	Enabled	Personal Leasing Quotes	15	campaign budget constrained	Search Only	Standard	1	3	33.33%	0.79	0.79	1	0	0	0.00%	0	100.00%	0.00%	0.00%	 --	 --	 --							
+4	3/28/2015	Computers	Enabled	Personal Leasing Quotes	15	campaign budget constrained	Search Only	Standard	0	2	0.00%	0	0	3	0	0	0.00%	0	< 10%	3.12%	> 90%	 --	 --	 --							
+19	1/7/2015	Computers	paused	Ford KA	5	campaign paused	Search Only	All features	0	5	0.00%	0	0	6.6	0	0	0.00%	0	71.43%	28.57%	0.00%	 --	 --	 --							
+21	3/26/2015	Computers	Enabled	Audi	5	campaign budget constrained	Search Only	All features	0	3	0.00%	0	0	7.7	0	0	0.00%	0	100.00%	0.00%	0.00%	 --	 --	 --							
+10	1/3/2015	Tablets with full browsers	paused	Ford KA	5	campaign paused	Search Only	All features	0	0	0.00%	0	0	0	0	0	0.00%	0	< 10%	> 90%	0.00%	 --	 --	 --							
+19	3/29/2015	Mobile devices with full browsers	Enabled	Audi	5	campaign budget constrained	Search Only	All features	0	0	0.00%	0	0	0	0	0	0.00%	0	< 10%	0.00%	> 90%	 --	 --	 --							
+1	3/11/2015	Mobile devices with full browsers	Enabled	Audi	5	campaign budget constrained	Search Only	All features	0	1	0.00%	0	0	2	0	0	0.00%	0	100.00%	0.00%	0.00%	 --	 --	 --							
+14	3/28/2015	Tablets with full browsers	Enabled	Audi	5	campaign budget constrained	Search Only	All features	0	4	0.00%	0	0	4	0	0	0.00%	0	100.00%	0.00%	0.00%	 --	 --	 --							
+0	3/29/2015	Tablets with full browsers	Enabled	Audi	5	campaign budget constrained	Search Only	All features	0	1	0.00%	0	0	1	0	0	0.00%	0	100.00%	0.00%	0.00%	 --	 --	 --							
+9	1/19/2015	Computers	paused	Ford KA	5	campaign paused	Search Only	All features	0	5	0.00%	0	0	7.4	0	0	0.00%	0	35.71%	64.29%	0.00%	 --	 --	 --							
+18	3/28/2015	Computers	Enabled	Vauxhall	10	campaign budget constrained	Search Only	All features	0	0	0.00%	0	0	0	0	0	0.00%	0	< 10%	0.00%	> 90%	 --	 --	 --							
+22	2/12/2015	Computers	Enabled	Generic Car Leasing	40	eligible	Search Only	All features	0	0	0.00%	0	0	0	0	0	0.00%	0	< 10%	0.00%	> 90%	 --	 --	 --							
+2	3/9/2015	Computers	Enabled	Generic Car Leasing	40	eligible	Search Only	All features	0	14	0.00%	0	0	3.9	0	0	0.00%	0	18.42%	50.00%	31.58%	 --	 --	 --							
+23	3/11/2015	Tablets with full browsers	Enabled	Generic Car Leasing	40	eligible	Search Only	All features	5	109	4.59%	0.33	1.67	3.8	0	0	0.00%	0	27.53%	66.92%	5.56%	 --	 --	 --							
+18	2/15/2015	Tablets with full browsers	Enabled	Generic Car Leasing	40	eligible	Search Only	All features	1	1	100.00%	0.89	0.89	1	0	0	0.00%	0	< 10%	0.00%	> 90%	 --	 --	 --							
+22	1/28/2015	Tablets with full browsers	Enabled	Generic Car Leasing	40	eligible	Search Only	All features	0	0	0.00%	0	0	0	0	0	0.00%	0	< 10%	0.00%	> 90%	 --	 --	 --							
+9	1/23/2015	Mobile devices with full browsers	Enabled	Generic Car Leasing	40	eligible	Search Only	All features	2	17	11.76%	0.67	1.34	2	0	0	0.00%	0	62.96%	11.11%	25.93%	 --	 --	 --							
+19	2/5/2015	Mobile devices with full browsers	Enabled	Bad Credit Leasing	100	campaign budget constrained	Search Only	All features	2	16	12.50%	0.62	1.25	3.2	0	0	0.00%	0	< 10%	> 90%	0.00%	 --	 --	 --							
+3	3/20/2015	Computers	Enabled	Bad Credit Leasing	100	campaign budget constrained	Search Only	All features	2	2	100.00%	1.03	2.06	2.5	0	0	0.00%	0	40.00%	60.00%	0.00%	 --	 --	 --							
+23	2/16/2015	Tablets with full browsers	Enabled	Bad Credit Leasing	100	campaign budget constrained	Search Only	All features	0	8	0.00%	0	0	3	0	0	0.00%	0	29.63%	70.37%	0.00%	 --	 --	 --							

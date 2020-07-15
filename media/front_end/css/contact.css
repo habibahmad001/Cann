@@ -1,0 +1,88 @@
+ 
+ 
+  .contect {
+  width:80%;
+  margin:100px auto;
+  padding:0 0 0 0;
+  }
+  
+   .contect form {
+   width:80%;
+   float:left;
+   margin:0 0 100px 80px;
+   height:auto;
+   }
+    .contect form p {
+	float:left;
+	width:100%;
+	}
+   .contect form input[type="text"]{
+   width:100%;
+background: none repeat scroll 0 0 #FFFFFF; 
+	border: 1px solid #C9C9C9; 
+	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15) inset, -5px -5px 0 0 #F5F5F6, 5px 5px 0 0 #F5F5F6, 5px 0 0 0 #F5F5F6, 0 5px 0 0 #F5F5F6, 5px -5px 0 0 #F5F5F6, -5px 5px 0 0 #F5F5F6; 
+	color: #545658; 
+	height:20px;
+	padding: 8px; 
+	font-size: 14px; 
+	border-radius: 2px 2px 2px 2px; 
+   }
+   .contect form textarea{
+   width:100%;
+background: none repeat scroll 0 0 #FFFFFF; 
+	border: 1px solid #C9C9C9; 
+	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15) inset, -5px -5px 0 0 #F5F5F6, 5px 5px 0 0 #F5F5F6, 5px 0 0 0 #F5F5F6, 0 5px 0 0 #F5F5F6, 5px -5px 0 0 #F5F5F6, -5px 5px 0 0 #F5F5F6; 
+	color: #545658; 
+	height:auto;
+	min-height:100px;
+	padding: 8px; 
+	font-size: 14px; 
+	margin:5px 0 0 0;
+	border-radius: 2px 2px 2px 2px; 
+   }
+   #submit { 
+	background:#6e0c19; 
+	border: 1px solid #B7D6DF;
+	outline:none;  
+
+	color: #FFFFFF; 
+	
+	cursor: pointer; 
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif; 
+	font-size: 14px;
+	font-weight: bold; 
+	height: auto; 
+	padding: 10px 20px; 
+	
+	width: auto; 
+}
+.about {
+  width:80%;
+  margin:100px auto;
+  padding:0 0 0 0;
+  }
+  .about p {
+  float:left;
+  font-size:12px;
+  line-height:20px;
+  }
+  .about h2 {
+  color:#333333;
+  float:left;
+  margin:0 0 0 0;
+  padding:20px 0 5px 0;
+  }
+.about p span {
+  font-size:16px;
+  color:#FFFFFF;
+  background:#333333;
+  border-radius:50px;
+  margin:5px;
+  padding:5px 10px;
+  float:left;
+  }
+  .about p span:hover {
+
+  background:#6e0c19;
+
+  }

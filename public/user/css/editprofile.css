@@ -1,0 +1,128 @@
+/* CSS Document */
+
+.profile {
+width:100%;
+min-height:600px;
+}
+.profile button {
+border:1px solid #0064a4;
+padding:10px 10px;
+background:#009cff;
+color:#FFFFFF;
+outline:none;
+cursor:pointer;
+float:right;
+clear:both;
+margin:20px;
+border-radius:5px;
+
+}
+
+.profile input[type="submit"] {
+border:1px solid #0064a4;
+padding:10px 10px;
+background:#009cff;
+color:#FFFFFF;
+outline:none;
+cursor:pointer;
+float:right;
+clear:both;
+margin:20px;
+border-radius:5px;
+
+}
+
+.profile .form1 {
+margin:10px auto;
+float:left;
+}
+
+.form1 .feelds {
+width:100%;
+height:auto;
+float:left;
+margin:10px 0;
+}
+
+.feelds input[type="text"] {
+float:right;
+margin:0 0 0 0;
+border: 1px solid #bebebe;
+border-radius:5px;
+width:70%;
+height:35px;
+padding:0 10px 0 10px;
+outline:none;
+background:#eaeaea;
+
+}
+
+.feelds input[type="password"] {
+float:right;
+margin:0 0 0 0;
+border: 1px solid #bebebe;
+border-radius:5px;
+width:70%;
+height:35px;
+padding:0 10px 0 10px;
+outline:none;
+background:#eaeaea;
+
+}
+
+.feelds .select-style-2 {
+float:right;
+margin:0 0 0 0;
+border: 1px solid #bebebe;
+border-radius:5px;
+width:30%;
+height:35px;
+padding:0 10px 0 10px;
+outline:none;
+    background: #eaeaea url("data:image/png;base64,R0lGODlhDwAUAIABAAAAAP///yH5BAEAAAEALAAAAAAPABQAAAIXjI+py+0Po5wH2HsXzmw//lHiSJZmUAAAOw==") no-repeat 90% 50%;
+}
+
+.feelds .select-style-2 select {
+    padding:5px 0px 0px 0px;
+    width: 100%;
+    border: none;
+    box-shadow: none;
+ float:left;
+ margin-right:-30px;
+    background: transparent;
+    background-image: none;
+    -webkit-appearance: none;
+}
+
+.feelds .select-style-2 select:focus {
+    outline: none;
+}
+
+
+
+
+.profile-form2 {
+margin:10px auto;
+float:left;
+}
+.form2 .feelds {
+width:100%;
+height:auto;
+float:left;
+margin:10px 0;
+}
+.feelds span {
+margin:10px 5px 0 5px;
+float:left;
+}
+.feelds input[type="text"] {
+float:right;
+margin:0 0 0 0;
+border: 1px solid #bebebe;
+border-radius:5px;
+width:70%;
+height:35px;
+padding:0 10px 0 10px;
+background:#eaeaea;
+outline:none;
+}

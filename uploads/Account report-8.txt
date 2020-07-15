@@ -1,0 +1,5 @@
+Month	Clicks	Impressions	CTR	Avg. CPC	Cost	Avg. position	Converted clicks	Cost / converted click	Click conversion rate	View-through Conv.	Search Impr. share	Search Lost IS (rank)	Search Lost IS (budget)
+1/1/2015	14209	518923	2.74%	0.63	"8,999.72"	1.6	538	16.73	3.79%	0	31.28%	23.88%	44.84%
+2/1/2015	13078	536665	2.44%	0.59	"7,698.12"	1.5	414	18.59	3.17%	4	45.12%	36.07%	18.82%
+3/1/2015	18362	634226	2.90%	0.56	"10,268.28"	2.4	570	18.01	3.11%	7	20.53%	43.87%	35.60%
+Total	45649	1689814	2.70%	0.59	"26,966.12"	1.9	1522	17.71	3.34%	11	25.82%	38.79%	35.39%

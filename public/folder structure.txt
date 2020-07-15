@@ -1,0 +1,9 @@
+uploads > adword accounts > [email] > [timeestamp] > [file name].csv
+
+Session[user_temp_acct_data][--]
+
+$user_temp_acct_data = array(); -- A
+
+session['user_temp_acct_data'] = $user_temp_acct_data;
+
+-- A >> name, email, adword_email, manual[filename => path]

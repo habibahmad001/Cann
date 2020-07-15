@@ -1,0 +1,685 @@
+Keyword state	Keyword	Campaign	Ad group	Status	Max. CPC	Match Type	Clicks	Impressions	CTR	Avg. CPC	Cost	Avg. position	Quality score	Converted clicks	Cost / converted click	Click conversion rate	Click Assisted Conv.	Impr. Assisted Conv.	Search Impr. share	Search Exact match IS	Search Lost IS (rank)
+enabled	car lease in stock	Bad Credit Leasing	Quick Cars	eligible	0.35	Broad	88	969	9.08%	0.32	28.6	3.9	10	0	0	0.00%	3	5	52.29%	70.37%	32.43%
+enabled	used car lease deals	Generic Car Leasing	Used Car Leasing	eligible	auto: 0.22	Broad	589	22471	2.62%	0.26	152.83	5.8	9	7	21.83	1.19%	2	27	28.70%	47.63%	57.45%
+enabled	lease jaguar xf	Jaguar	Jaguar Premium Luxury	campaign paused	0.45	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+paused	non status car leasing	Bad Credit Leasing	Bad Credit	paused	0.99	Broad	66	709	9.31%	0.88	58.17	2.5	8	1	58.17	1.52%	0	1	73.93%	100.00%	8.65%
+enabled	"""lease cars no deposit"""	No Deposit Deals	No Deposit Deals	eligible	0.99	Phrase	77	278	27.70%	0.81	62.66	1.7	9	2	31.33	2.60%	1	3	61.50%	64.85%	1.55%
+enabled	"""car lease companies"""	Generic Car Leasing	Car leasing	eligible	auto: 0.22	Phrase	67	1287	5.21%	0.67	44.61	3.8	9	2	22.3	2.99%	2	1	30.01%	19.37%	19.19%
+enabled	"""lease car with bad credit"""	Bad Credit Leasing	Bad Credit	eligible	1.3	Phrase	38	360	10.56%	1.06	40.36	3.5	10	3	13.45	7.89%	0	4	59.70%	55.56%	30.51%
+enabled	hippo leasing bad credit	Hippo Leasing	Hippo Leasing (Generic)	eligible	0.98	Broad	2	23	8.70%	0.88	1.77	1.7	8	0	0	0.00%	0	1	100.00%	100.00%	0.00%
+enabled	leasing Tiguan	Volkswagen Tiguan	Volkswagen Tiguan	campaign paused	0.5	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+paused	car lease deal	Generic Car Leasing	Car leasing	paused	auto: 0.89	Broad	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""ford transit van lease"""	Ford Transit	Ford Transit	campaign paused	1.75	Phrase	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""lease a car no deposit"""	No Deposit Deals	No Deposit Deals	eligible	0.99	Phrase	6	20	30.00%	0.72	4.29	1.9	9	1	4.29	16.67%	0	1	95.24%	100.00%	0.00%
+paused	vehicle lease agreements	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+paused	cheap car leasing	Chevrolet	Cherolet Spark	campaign paused	0.59	Broad	0	0	0.00%	0	0	0	6	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""no deposit hyundai i10"""	Hyundai	Hyundai (i10)	campaign paused	0.99	Phrase	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	used vauxhall insignia lease	Vauxhall	Vauxhall Insignia (Petrol)	low search volume	0.99	Broad	5	18	27.78%	0.77	3.84	1.8	8	0	0	0.00%	0	0	78.26%	 --	17.39%
+paused	"""car lease purchase"""	Generic Car Leasing	Car leasing	paused	auto: 0.89	Phrase	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+removed	lease a car no deposit	No Deposit Deals	No Deposit Deals	removed	 --	Broad	4070	24884	16.36%	0.54	"2,210.98"	2.7	0	168	13.16	4.13%	22	96	86.38%	95.77%	13.39%
+paused	[bad credit car leasing]	Bad Credit Leasing	Bad Credit	paused	1.3	Exact	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+paused	cheap leasing deals	No Deposit Deals	No Deposit Deals	paused	0.99	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""nissan juke leasing"""	Nissan	Nissan Duke	campaign paused	1.3	Phrase	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+paused	cars to lease no deposit	No Deposit Deals	No Deposit Deals	paused	0.99	Broad	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+enabled	bmw leasing 116	BMW	BMW 1series	campaign paused	0.67	Broad	0	0	0.00%	0	0	0	5	0	0	0.00%	0	0	 --	 --	 --
+paused	"""no deposit leasing"""	No Deposit Deals	No Deposit Deals	paused	0.99	Phrase	547	2601	21.03%	0.89	486.58	1.7	9	19	25.61	3.47%	4	13	98.30%	99.80%	1.70%
+paused	car lease prices	Generic Car Leasing	Car leasing	paused	auto: 0.89	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+paused	no deposit vauxhall corsa	Vauxhall Corsa	Vauxhall Corsa (1.4 SXI)	campaign paused	1.1	Broad	0	0	0.00%	0	0	0	6	0	0	0.00%	0	0	 --	 --	 --
+enabled	used car leasing	Generic Car Leasing	Used Car Leasing	eligible	auto: 0.22	Broad	456	15197	3.00%	0.26	120.07	5.6	10	4	30.02	0.88%	0	13	20.55%	55.83%	63.22%
+enabled	used lease cars	Generic Car Leasing	Used Car Leasing	eligible	auto: 0.22	Broad	313	12016	2.60%	0.31	97.32	5.4	9	4	24.33	1.28%	1	12	25.78%	47.52%	69.83%
+enabled	leasing range rover	RangeRover	3.6 TDV8 HSE	campaign paused	0.56	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""corsa leasing"""	Vauxhall Corsa	Vauxhall Corsa (1.4 SXI)	campaign paused	0.99	Phrase	72	1349	5.34%	0.79	57.04	3.1	8	1	57.04	1.39%	0	3	79.73%	64.86%	4.02%
+paused	Renault megane convertible contract hire	Renault Megane	Megane CC	campaign paused	0.55	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	jaguar xf lease	Jaguar	Jaguar Premium Luxury	campaign paused	0.45	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+paused	cost of leasing a car	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+paused	cheap car lease no deposit	No Deposit Deals	No Deposit Deals	paused	0.99	Broad	83	504	16.47%	0.86	71.6	1.6	9	2	35.8	2.41%	0	1	88.11%	82.61%	3.32%
+enabled	citroen leasing	CitroenC2	CitroenC2	campaign paused	0.45	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	next vehicle leasing	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	6	0	0	0.00%	0	0	 --	 --	 --
+enabled	range rover leasing	RangeRover	2.7 TDV6 S	campaign paused	0.55	Broad	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+paused	renault scenic	GRANDE SCENIC	GRANDE SCENIC	campaign paused	0.65	Broad	0	0	0.00%	0	0	0	5	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""car leasing deals personal"""	Personal Leasing Quotes	Quick Leasing Quote (Generic)	eligible	0.98	Phrase	408	1783	22.88%	0.78	317.16	1.5	8	10	31.72	2.45%	2	5	93.50%	95.75%	1.05%
+enabled	quick car leasing	Bad Credit Leasing	Quick Cars	eligible	0.35	Broad	38	2068	1.84%	0.32	12	5.6	8	4	3	10.53%	2	4	26.94%	77.27%	69.63%
+enabled	"""leasing insignia"""	Vauxhall	Vauxhall Insignia (Petrol)	eligible	0.99	Phrase	12	27	44.44%	0.64	7.71	1.8	10	0	0	0.00%	0	1	93.10%	87.50%	0.00%
+enabled	"""renault leasing"""	Renault	Renault Megane	campaign paused	1	Phrase	0	0	0.00%	0	0	0	5	0	0	0.00%	0	0	 --	 --	 --
+paused	car leasing deals uk	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+paused	network vehicle leasing	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	leasing Subaru Impreza	Subaru Impreza	Subaru Impreza	campaign paused	0.69	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+paused	fiat contract hire	Fiat Punto	Fiat Punto	paused	0.99	Broad	0	0	0.00%	0	0	0	6	0	0	0.00%	0	0	 --	 --	 --
+removed	zero deposit car lease	No Deposit Deals	No Deposit Deals	removed	 --	Broad	254	1695	14.99%	0.82	208.27	1.7	0	9	23.14	3.54%	4	9	78.12%	93.85%	2.32%
+enabled	citroen small lease	Citroen	Citroen C3	campaign paused	0.75	Broad	0	0	0.00%	0	0	0	3	0	0	0.00%	0	0	 --	 --	 --
+paused	Renault convertible finance	Renault Megane	Megane CC	campaign paused	0.55	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	hippo leasing no deposit	Hippo Leasing	Hippo Leasing (Generic)	eligible	0.98	Broad	389	2586	15.04%	0.76	293.99	2.3	8	15	19.6	3.86%	2	15	93.19%	100.00%	6.81%
+enabled	"""lease renault scenic"""	Renault Grand Scenic	Renault Grand Scenic	campaign paused	0.59	Phrase	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""lease clio"""	Renault	Renault Clio	campaign paused	0.89	Phrase	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+enabled	leasing citroen	Citroen	Citroen C3	campaign paused	1.25	Broad	0	0	0.00%	0	0	0	3	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""car leasing for bad credit"""	Bad Credit Leasing	Bad Credit	eligible	1.2	Phrase	99	1044	9.48%	0.99	97.92	4.2	10	6	16.32	6.06%	1	11	49.29%	49.92%	36.31%
+paused	"""car leasing in uk"""	Hippo Leasing	Hippo Leasing (Generic)	paused	0.98	Phrase	21	138	15.22%	0.85	17.9	2.3	9	0	0	0.00%	0	0	67.65%	52.75%	3.43%
+enabled	leasing Mercedes Benz	Mercedes	Mercedes-Benz M	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	lease Citroen	CitroenC2	CitroenC2	campaign paused	0.45	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	scenic seat dynamique	GRANDE SCENIC	GRANDE SCENIC	campaign paused	0.65	Broad	0	0	0.00%	0	0	0	4	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""van lease peugeot"""	Vans	Peugeot Van (Partner)	campaign paused	auto: 2.78	Phrase	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+paused	hippo vehicle leasing	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+enabled	bmw sport	BMW	BMW 1series	campaign paused	0.67	Broad	0	0	0.00%	0	0	0	5	0	0	0.00%	0	0	 --	 --	 --
+paused	"""cheap car lease"""	Generic Car Leasing	Car leasing	paused	auto: 0.89	Phrase	104	544	19.12%	0.66	69.08	2	9	0	0	0.00%	0	0	< 10%	< 10%	0.04%
+enabled	jaguar xf leasing	Jaguar	Jaguar Premium Luxury	campaign paused	0.45	Broad	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+enabled	Renault megane leasing	Renault Megane	Megane CC	campaign paused	0.55	Broad	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+enabled	bmw 116 leasing	BMW	BMW 1series	campaign paused	0.67	Broad	0	0	0.00%	0	0	0	5	0	0	0.00%	0	0	 --	 --	 --
+paused	"""car leasing with no deposit"""	No Deposit Deals	No Deposit Deals	paused	0.99	Phrase	119	490	24.29%	0.85	100.7	2	9	1	100.7	0.84%	0	4	98.00%	99.22%	2.00%
+removed	"""lease audi a4"""	Audi	Audi A3	removed	 --	Phrase	1	103	0.97%	0.66	0.66	5	0	0	0	0.00%	0	0	47.91%	38.18%	52.09%
+paused	"""leasing cheap golf"""	VW	VW Golf	campaign paused	0.87	Phrase	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+paused	 +no +deposit +renault +clio +lease	Renault	Renault Clio	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+removed	"""audi a4 lease"""	Audi	Audi A3	removed	 --	Phrase	3	304	0.99%	0.82	2.47	4.7	0	0	0	0.00%	0	1	73.72%	65.22%	26.28%
+enabled	leasing honda	Honda	Honda	campaign paused	0.69	Broad	0	0	0.00%	0	0	0	5	0	0	0.00%	0	0	 --	 --	 --
+paused	lease van	VW Transporter	VW Commercial	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+enabled	lease Volkswagen Tiguan	Volkswagen Tiguan	Volkswagen Tiguan	campaign paused	0.5	Broad	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+enabled	Peugeot lease	Peugeot 207	Peugeot 207	campaign paused	0.5	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	volkswagen van lease	VW Transporter	VW Caddy	campaign paused	0.59	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""lease golf"""	VW	VW Golf	campaign paused	0.87	Phrase	100	2885	3.47%	0.66	65.75	3.1	8	0	0	0.00%	0	2	86.17%	99.22%	13.83%
+paused	frontier vehicle leasing	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+enabled	lease Subaru	Subaru Impreza	Subaru Impreza	campaign paused	0.69	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+paused	car lease no deposit	No Deposit Deals	No Deposit Deals	paused	0.99	Broad	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+enabled	leasing citroen c3	Citroen	Citroen C3	campaign paused	0.75	Broad	0	0	0.00%	0	0	0	3	0	0	0.00%	0	0	 --	 --	 --
+paused	[leasing Toyota]	Toyota	Toyota Avensis	campaign paused	1.5	Exact	0	0	0.00%	0	0	0	6	0	0	0.00%	0	0	 --	 --	 --
+enabled	leasing Volkswagen Tiguan	Volkswagen Tiguan	Volkswagen Tiguan	campaign paused	0.5	Broad	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""leasing megane"""	Renault	Renault Megane	campaign paused	1	Phrase	0	0	0.00%	0	0	0	6	0	0	0.00%	0	0	 --	 --	 --
+paused	car leasing quote	Personal Leasing Quotes	Quick Leasing Quote (Generic)	paused	0.98	Broad	0	0	0.00%	0	0	0	6	0	0	0.00%	0	0	 --	 --	 --
+enabled	vauxhall astra leasing	Vauxhall Astra (Petrol)	Vauxhall Astra Twin Top	campaign paused	0.5	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""Lease Toyota"""	Toyota	Toyota Avensis	campaign paused	1.25	Phrase	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+enabled	[lease range rover]	Range Rover	Range Rover Sport	campaign paused	0.5	Exact	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+paused	scenic renault	GRANDE SCENIC	GRANDE SCENIC	campaign paused	0.65	Broad	0	0	0.00%	0	0	0	5	0	0	0.00%	0	0	 --	 --	 --
+enabled	lease alfa romeo	Alfa Romeo	Alfa Romeo Mito	campaign paused	0.45	Broad	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""no deposit van leasing"""	Vans	No Deposit Van Leasing	campaign paused	auto: 2.78	Phrase	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+enabled	Volvo XC	Volvo	Volvo XC90 D5	campaign paused	0.54	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	1st vehicle leasing	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	6	0	0	0.00%	0	0	 --	 --	 --
+enabled	hippo leasing	Hippo Leasing	Hippo Leasing (Generic)	eligible	0.98	Broad	3969	10313	38.49%	0.16	617.98	1	10	162	3.81	4.09%	47	55	78.28%	90.71%	5.14%
+enabled	hippoleasing	Hippo Leasing	Hippo Leasing (Generic)	eligible	0.98	Broad	583	2343	24.88%	0.51	299.63	1.8	6	20	14.98	3.43%	6	9	88.88%	93.19%	2.85%
+enabled	[corsa lease deal]	Vauxhall Corsa	Vauxhall Corsa (1.4 SXI)	campaign paused	1.3	Exact	22	292	7.53%	1.03	22.75	1.9	8	0	0	0.00%	0	2	75.84%	75.84%	1.56%
+enabled	ex demo car leasing	Generic Car Leasing	Used Car Leasing	eligible	auto: 0.22	Broad	3	165	1.82%	0.3	0.89	4.8	8	0	0	0.00%	0	0	14.03%	32.71%	38.18%
+enabled	Mercedes leasing	Mercedes	Mercedes-Benz M	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	citroen c3 leasing	Citroen	Citroen C3	campaign paused	0.75	Broad	0	0	0.00%	0	0	0	3	0	0	0.00%	0	0	 --	 --	 --
+paused	no deposit corsa sxi	Vauxhall Corsa	Vauxhall Corsa (1.4 SXI)	campaign paused	0.99	Broad	0	0	0.00%	0	0	0	6	0	0	0.00%	0	0	 --	 --	 --
+paused	company car lease	Generic Car Leasing	Car leasing	paused	auto: 0.89	Broad	57	1306	4.36%	0.72	40.83	3.5	8	0	0	0.00%	0	0	< 10%	< 10%	8.76%
+paused	Volkswagen leasing	VW	VW Golf	campaign paused	1.25	Broad	0	0	0.00%	0	0	0	5	0	0	0.00%	0	0	 --	 --	 --
+paused	 +renault +clio +lease	Renault	Renault Clio	campaign paused	0.78	Broad	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+paused	"""leasing renault"""	Renault Grand Scenic	Renault Grand Scenic	campaign paused	1	Phrase	0	0	0.00%	0	0	0	6	0	0	0.00%	0	0	 --	 --	 --
+enabled	twin top astra lease	Vauxhall Astra (Petrol)	Vauxhall Astra Twin Top	campaign paused	0.5	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+enabled	120 bmw leasing	BMW	BMW 1series	campaign paused	0.67	Broad	0	0	0.00%	0	0	0	4	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""leasing mini"""	Mini	Mini Cooper	campaign paused	1.25	Phrase	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+enabled	hippo car leasing	Hippo Leasing	Hippo Leasing (Generic)	eligible	0.98	Broad	1565	4710	33.23%	0.19	302.8	1.3	10	86	3.49	5.52%	34	35	82.49%	89.88%	7.20%
+paused	contract hire and leasing	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	1.2	Broad	0	0	0.00%	0	0	0	6	0	0	0.00%	0	0	 --	 --	 --
+paused	car lease under 100	Chevrolet	Cherolet Spark	campaign paused	0.59	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+paused	Renault megane convertible finance lease	Renault Megane	Megane CC	campaign paused	0.55	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+paused	hippo car leasing	No Deposit Deals	No Deposit Deals	paused	0.99	Broad	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+enabled	short term lease deal	Short term leasing	Short term leasing	campaign paused	0.98	Broad	0	0	0.00%	0	0	0	6	0	0	0.00%	0	0	 --	 --	 --
+enabled	aston martin leasing	Astin Martin	Aston Martin Vantage	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""leasing renault megane"""	Renault	Renault Megane	campaign paused	1	Phrase	0	0	0.00%	0	0	0	5	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""lease Renault Clio"""	Renault	Renault Clio	campaign paused	0.89	Phrase	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	4x4 leasing volvo	Volvo	Volvo XC90 D5	campaign paused	0.54	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+paused	"""car leasing personal"""	Personal Leasing Quotes	Quick Leasing Quote (Generic)	paused	0.98	Phrase	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+enabled	leasing peugeot	Peugeot 207	Peugeot 308	campaign paused	0.56	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""peugeot van lease"""	Vans	Peugeot Van (Partner)	campaign paused	auto: 2.78	Phrase	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	xf jaguar	Jaguar	Jaguar Premium Luxury	campaign paused	0.45	Broad	0	0	0.00%	0	0	0	6	0	0	0.00%	0	0	 --	 --	 --
+paused	"""no deposit lease"""	No Deposit Deals	No Deposit Deals	paused	0.99	Phrase	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""lease vauxhall corsa"""	Vauxhall Corsa	Vauxhall Corsa (1.4 SXI)	campaign paused	1.29	Phrase	17	469	3.62%	0.97	16.5	3.7	6	1	16.5	5.88%	1	0	82.14%	76.53%	3.68%
+enabled	lease commercial van	VW Transporter	VW Commercial	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+paused	no deposit insignia lease	Vauxhall	Vauxhall Insignia (Petrol)	paused	0.99	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+paused	Ford Focus 1.6 TDCI Contract Hire	Ford	Ford Focus (1.6 TDCI)	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	3	0	0	0.00%	0	0	 --	 --	 --
+enabled	lease small citroen	Citroen	Citroen C3	campaign paused	0.75	Broad	0	0	0.00%	0	0	0	3	0	0	0.00%	0	0	 --	 --	 --
+enabled	lease megane	Renault Megane	Megane CC	campaign paused	0.75	Broad	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+enabled	used cars lease	Generic Car Leasing	Used Car Leasing	eligible	auto: 0.22	Broad	4	51	7.84%	0.27	1.07	4.4	10	0	0	0.00%	0	0	< 10%	40.32%	0.92%
+paused	range rover	RangeRover	2.7 TDV6 S	campaign paused	0.55	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+paused	vehicle leasing company	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	1.5	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+paused	"""leasing bad credit"""	Bad Credit Leasing	Bad Credit	paused	1.3	Phrase	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+enabled	cheap renault lease	Renault Grand Scenic	Renault Grand Scenic	campaign paused	0.59	Broad	0	0	0.00%	0	0	0	6	0	0	0.00%	0	0	 --	 --	 --
+paused	focus on lease	Ford	Ford Focus (1.6 TDCI)	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""cheap vehicle lease"""	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	0.89	Phrase	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+paused	"""lease vauxhall insignia"""	Vauxhall	Vauxhall Insignia (Petrol)	paused	1.2	Phrase	49	129	37.98%	0.8	38.97	1.5	8	1	38.97	2.04%	0	0	100.00%	100.00%	0.00%
+enabled	"""zero deposit car lease"""	No Deposit Deals	No Deposit Deals	eligible	0.99	Phrase	16	89	17.98%	0.9	14.38	1.8	10	0	0	0.00%	0	0	91.75%	89.87%	0.00%
+removed	no deposit leasing	No Deposit Deals	No Deposit Deals	removed	 --	Broad	25	155	16.13%	0.74	18.41	2	0	0	0	0.00%	0	0	29.01%	100.00%	2.48%
+enabled	leasing Shogan	Mitsubishi	Mitsubishi Shogan	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	4	0	0	0.00%	0	0	 --	 --	 --
+paused	"""Audi A4 2.0 TDI Sport"""	Audi	Audi A3	paused	0.99	Phrase	0	0	0.00%	0	0	0	3	0	0	0.00%	0	0	 --	 --	 --
+paused	Ford Focus 1.8 TDCI	Ford	Ford Focus (1.6 TDCI)	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	3	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""lease megane"""	Renault	Renault Megane	campaign paused	1	Phrase	0	0	0.00%	0	0	0	5	0	0	0.00%	0	0	 --	 --	 --
+paused	"""car lease quick"""	Bad Credit Leasing	Quick Cars	paused	0.6	Phrase	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+enabled	Volkswagen Tiguan	Volkswagen Tiguan	Volkswagen Tiguan	campaign paused	0.5	Broad	0	0	0.00%	0	0	0	6	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""van leasing cheap"""	Vans	No Deposit Van Leasing	campaign paused	auto: 2.78	Phrase	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+paused	compare vehicle leasing	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+paused	uk car leasing deals	Hippo Leasing	Hippo Leasing (Generic)	paused	0.98	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	aston martin lease	Astin Martin	Aston Martin Vantage	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+paused	"""cheap vehicle leasing"""	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	0.89	Phrase	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+paused	business car lease	Generic Car Leasing	Car leasing	paused	auto: 0.89	Broad	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""audi a3 lease"""	Audi	Audi A3	eligible	0.99	Phrase	236	4203	5.62%	0.81	190.08	3.6	7	2	95.04	0.85%	2	2	84.28%	83.58%	9.10%
+paused	cheap car lease deals no deposit	No Deposit Deals	No Deposit Deals	paused	0.99	Broad	78	368	21.20%	0.79	61.44	1.8	8	1	61.44	1.28%	3	1	77.31%	85.71%	1.68%
+paused	leasing under 1 hundred	Chevrolet	Cherolet Spark	campaign paused	0.59	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+paused	new range rover	Range Rover	Range Rover Sport	campaign paused	0.5	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+paused	car leasing offers	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""fiat punto lease"""	Fiat Punto	Fiat Punto	eligible	0.99	Phrase	36	204	17.65%	0.61	22.02	1.1	8	0	0	0.00%	0	0	100.00%	100.00%	0.00%
+paused	Renault megane convertible leasing	Renault Megane	Megane CC	campaign paused	0.55	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+paused	"""no deposit car lease"""	No Deposit Deals	No Deposit Deals	paused	0.99	Phrase	67	316	21.20%	0.82	55.25	1.7	9	0	0	0.00%	0	0	84.27%	86.31%	1.87%
+enabled	new renault grande scenic	GRANDE SCENIC	GRANDE SCENIC	campaign paused	0.65	Broad	0	0	0.00%	0	0	0	5	0	0	0.00%	0	0	 --	 --	 --
+paused	cheap car lease	New 2 You	New 2 You (Generic)	campaign paused	1	Broad	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+enabled	[range rover lease]	Range Rover	Range Rover Sport	campaign paused	0.5	Exact	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+paused	best car lease	Generic Car Leasing	Car leasing	paused	auto: 0.89	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	lease aston martin	Astin Martin	Aston Martin Vantage	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+paused	range rover	Range Rover	Range Rover Sport	campaign paused	0.5	Broad	0	0	0.00%	0	0	0	4	0	0	0.00%	0	0	 --	 --	 --
+paused	 +ex +demo +peugeot +107	Peugeot	Peugeot 107	paused	0.79	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""vauxhall insignia lease"""	Vauxhall	Vauxhall Insignia (Petrol)	eligible	0.99	Phrase	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+paused	personal car leasing deals	Personal Leasing Quotes	Quick Leasing Quote (Generic)	paused	0.98	Broad	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+enabled	range rover lease	RangeRover	2.7 TDV6 S	campaign paused	0.55	Broad	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""vehicle leasing"""	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	0.99	Phrase	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+paused	 +vauxhall +insignia +lease	Vauxhall	Vauxhall Insignia (Petrol)	paused	0.99	Broad	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+paused	"""car leasing uk"""	Hippo Leasing	Hippo Leasing (Generic)	paused	0.98	Phrase	3026	24720	12.24%	0.82	"2,481.11"	2	7	53	46.81	1.75%	11	27	64.16%	55.71%	2.35%
+enabled	"""personal vehicle leasing"""	Personal Leasing Quotes	Quick Leasing Quote (Generic)	eligible	0.98	Phrase	487	2726	17.87%	0.8	390.4	1.5	8	12	32.53	2.46%	2	2	75.37%	72.35%	0.50%
+enabled	car leasing quick	Bad Credit Leasing	Quick Cars	eligible	0.8	Broad	118	2976	3.97%	0.75	88.45	2.9	8	6	14.74	5.08%	0	5	48.69%	< 10%	31.74%
+enabled	used car lease hire	Generic Car Leasing	Used Car Leasing	eligible	auto: 0.22	Broad	307	12157	2.53%	0.23	69.56	6	9	5	13.91	1.63%	0	19	13.70%	48.28%	62.01%
+paused	lease	VW Transporter	VW Caddy	campaign paused	0.59	Broad	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+enabled	euro vehicle leasing	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+paused	"""personal lease deals"""	Personal Leasing Quotes	Quick Leasing Quote (Generic)	paused	0.98	Phrase	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+removed	car lease purchase	Generic Car Leasing	Car leasing	removed	 --	Broad	157	2872	5.47%	0.64	100.4	2.8	0	2	50.2	1.27%	1	3	11.31%	< 10%	2.74%
+enabled	lease transporter	VW Transporter	VW Commercial	campaign paused	0.56	Broad	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+enabled	saab lease convertible	Saab	Saab Linear Convert	campaign paused	0.5	Broad	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+paused	"""uk car leasing"""	Generic Car Leasing	Car leasing	paused	auto: 1.09	Phrase	146	1906	7.66%	0.85	123.71	1.8	7	0	0	0.00%	0	2	32.56%	24.14%	1.13%
+paused	"""lease ford focus"""	Ford	Ford Focus (1.6 TDCI)	campaign paused	0.89	Phrase	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+enabled	leasing porsche	Porsche	Porsche Boxster	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+paused	no deposit focus lease	Ford	Ford Focus (1.6 TDCI)	campaign paused	1.75	Broad	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+enabled	Volvo XC D5	Volvo	Volvo XC90 D5	campaign paused	0.54	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""car lease with no deposit"""	No Deposit Deals	No Deposit Deals	eligible	0.99	Phrase	76	315	24.13%	0.84	63.9	1.6	10	3	21.3	3.95%	4	0	93.47%	89.39%	0.59%
+enabled	used car leasing	New 2 You	New 2 You (Generic)	campaign paused	1	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+paused	car allowance bad credit	Bad Credit Leasing	Bad Credit	paused	1.9	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""leasing nissan juke"""	Nissan	Nissan Duke	campaign paused	0.89	Phrase	0	0	0.00%	0	0	0	6	0	0	0.00%	0	0	 --	 --	 --
+paused	"""lease credit bad"""	Bad Credit Leasing	Bad Credit	paused	1.55	Phrase	0	0	0.00%	0	0	0	6	0	0	0.00%	0	0	 --	 --	 --
+enabled	peugeot leasing 308	Peugeot 207	Peugeot 308	campaign paused	0.56	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	ex demo car lease	Bad Credit Leasing	Quick Cars	eligible	0.6	Broad	11	388	2.84%	0.6	6.56	3.4	6	0	0	0.00%	0	0	45.27%	36.84%	18.44%
+enabled	acorn vehicle leasing	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	cheap transporter	VW Transporter	VW Commercial	campaign paused	0.56	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+paused	no deposit cars	No Deposit Deals	No Deposit Deals	paused	0.99	Broad	293	3452	8.49%	0.84	247.25	3.4	6	6	41.21	2.05%	0	2	31.73%	30.58%	13.27%
+enabled	bad credit car leasing	Bad Credit Leasing	Bad Credit	eligible	1.2	Broad	1562	29700	5.26%	1.03	"1,607.76"	5.4	10	116	13.85	7.43%	22	115	28.87%	51.14%	63.15%
+removed	car lease financing	Generic Car Leasing	Car leasing	removed	 --	Broad	2226	28618	7.78%	0.71	"1,577.96"	2.5	0	43	36.7	1.93%	5	22	24.62%	41.05%	3.79%
+paused	select vehicle leasing	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	leasing aston martin	Astin Martin	Aston Martin Vantage	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	lease range rover	RangeRover	3.6 TDV8 HSE	campaign paused	0.56	Broad	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+paused	car lease online	Generic Car Leasing	Car leasing	paused	auto: 0.89	Broad	21	321	6.54%	0.61	12.83	2.7	9	0	0	0.00%	0	1	< 10%	< 10%	0.56%
+paused	[no deposit lease cars]	No Deposit Deals	No Deposit Deals	paused	0.99	Exact	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+enabled	transporter van	VW Transporter	VW Commercial	campaign paused	0.56	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+paused	no deposit van leasing	Vans	Peugeot Van (Partner)	campaign paused	auto: 2.78	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+paused	leasing fiat	Fiat Punto	Fiat Punto	paused	0.65	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""lease van with no deposit"""	Vans	No Deposit Van Leasing	campaign paused	auto: 2.78	Phrase	0	0	0.00%	0	0	0	4	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""lease fiat punto"""	Fiat Punto	Fiat Punto	eligible	0.69	Phrase	21	57	36.84%	0.46	9.67	1.7	8	0	0	0.00%	0	0	100.00%	100.00%	0.00%
+enabled	[lease juke]	Nissan	Nissan Duke	campaign paused	0.89	Exact	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+enabled	lease transit van	Ford Transit	Ford Transit	campaign paused	1.12	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+enabled	[lease a hyundai i10]	Hyundai	Hyundai (i10)	campaign paused	0.99	Exact	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+paused	[no deposit car leasing]	No Deposit Deals	No Deposit Deals	paused	0.99	Exact	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+enabled	[honda roadster]	Honda	Honda	campaign paused	0.69	Exact	0	0	0.00%	0	0	0	6	0	0	0.00%	0	0	 --	 --	 --
+paused	 +poor +credit +car +lease	Bad Credit Leasing	Bad Credit	paused	0.99	Broad	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+enabled	lease Citroen C2	CitroenC2	CitroenC2	campaign paused	0.45	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+enabled	lease Volkswagen	VW Transporter	VW Commercial	campaign paused	0.56	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+paused	car lease options	Generic Car Leasing	Car leasing	paused	auto: 0.89	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""cheap leasing golf"""	VW	VW Golf	campaign paused	0.87	Phrase	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+enabled	jaguar xf	Jaguar	Jaguar Premium Luxury	campaign paused	0.45	Broad	0	0	0.00%	0	0	0	6	0	0	0.00%	0	0	 --	 --	 --
+paused	hippo vehicle leasing	No Deposit Deals	No Deposit Deals	paused	0.99	Broad	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+enabled	quick car lease	Bad Credit Leasing	Quick Cars	Below first page bid (First page CPC : 0.98)	0.9	Broad	329	4196	7.84%	0.56	184.16	2.8	8	21	8.77	6.38%	7	12	31.95%	86.84%	61.18%
+enabled	"""car lease bad credit"""	Bad Credit Leasing	Bad Credit	eligible	0.99	Phrase	141	1357	10.39%	0.98	138.12	4.2	10	10	13.81	7.09%	3	18	50.75%	51.44%	33.06%
+removed	lease no deposit	No Deposit Deals	No Deposit Deals	removed	 --	Broad	63	554	11.37%	0.85	53.59	2.4	0	2	26.8	3.17%	0	0	67.03%	 --	23.20%
+enabled	lex auto lease	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	5	0	0	0.00%	0	0	 --	 --	 --
+enabled	renault scenic lease deal	Renault Grand Scenic	Renault Grand Scenic	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+paused	contract car leasing uk	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+enabled	Citroen C2 lease	CitroenC2	CitroenC2	campaign paused	0.45	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""peugeot 107 lease"""	Peugeot	Peugeot 107	eligible	0.79	Phrase	22	294	7.48%	0.64	14.15	3.3	8	0	0	0.00%	0	0	97.35%	96.43%	2.65%
+enabled	range rover leasing	RangeRover	3.6 TDV8 HSE	campaign paused	0.56	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+paused	"""cheap van leasing"""	Vans	No Deposit Van Leasing	campaign paused	auto: 2.78	Phrase	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+enabled	no deposit lease vehicles	No Deposit Deals	No Deposit Deals	eligible	0.99	Broad	4	26	15.38%	0.86	3.42	1.3	9	0	0	0.00%	0	1	96.30%	 --	0.00%
+enabled	applied vehicle leasing	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	6	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""fiat punto leasing"""	Fiat Punto	Fiat Punto	eligible	0.89	Phrase	10	32	31.25%	0.75	7.5	1.8	8	1	7.5	10.00%	0	0	100.00%	100.00%	0.00%
+enabled	"""zero deposit leasing"""	No Deposit Deals	No Deposit Deals	eligible	0.99	Phrase	21	122	17.21%	0.71	14.94	1.5	10	0	0	0.00%	1	1	96.83%	98.82%	0.79%
+enabled	"""vauxhall corsa leasing"""	Vauxhall Corsa	Vauxhall Corsa (1.4 SXI)	campaign paused	1.3	Phrase	16	886	1.81%	1.05	16.75	3.6	6	0	0	0.00%	0	1	75.34%	63.27%	4.34%
+enabled	"""leasing Volkswagen Golf"""	VW	VW Golf	campaign paused	1	Phrase	47	1276	3.68%	0.77	36.16	4.3	7	0	0	0.00%	0	0	77.10%	69.48%	22.90%
+enabled	no deposit vaux corsa	Vauxhall Corsa	Vauxhall Corsa (1.4 SXI)	campaign paused	0.99	Broad	0	0	0.00%	0	0	0	6	0	0	0.00%	0	0	 --	 --	 --
+paused	leasing Fiat Grande Punto	Fiat Punto	Fiat Punto	paused	0.65	Broad	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+paused	diesel Ford Focus Contract Hire	Ford	Ford Focus (1.6 TDCI)	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+paused	punto grande leasing	Fiat Punto	Fiat Punto	paused	0.65	Broad	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+paused	"""cheap car leasing deals"""	No Deposit Deals	No Deposit Deals	paused	0.99	Phrase	65	217	29.95%	0.85	55.4	1.5	8	1	55.4	1.54%	0	0	62.00%	55.63%	0.00%
+enabled	vehicle leasing online quote	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+paused	Fiat Grande Punto leasing	Fiat Punto	Fiat Punto	paused	0.65	Broad	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""Renault Megane leasing"""	Renault	Renault Megane	campaign paused	1	Phrase	0	0	0.00%	0	0	0	5	0	0	0.00%	0	0	 --	 --	 --
+paused	Renault megane convertible deals	Renault Megane	Megane CC	campaign paused	0.55	Broad	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+enabled	peugeot 308 lease	Peugeot 207	Peugeot 308	campaign paused	0.56	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+paused	"""poor credit car leasing"""	Bad Credit Leasing	Bad Credit	paused	0.99	Phrase	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+enabled	Chrysler Sebring leasing	Chrysler Sebring	Chrysler	campaign paused	0.68	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+paused	chev matiz	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""ka lease"""	Ford KA	KA (1.2 Edge)	campaign paused	1	Phrase	8	122	6.56%	0.71	5.71	1.8	8	0	0	0.00%	0	0	88.41%	94.44%	10.87%
+paused	business car leasing no deposit	No Deposit Deals	No Deposit Deals	paused	0.99	Broad	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+enabled	no deposit corsa lease	Vauxhall Corsa	Corsa No deposit	campaign paused	0.99	Broad	0	1	0.00%	0	0	2	10	0	0	0.00%	0	0	< 10%	 --	0.00%
+enabled	porsche lease	Porsche	Porsche Boxster	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""mini leasing"""	Mini	Mini Cooper	campaign paused	1.5	Phrase	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+paused	"""uk vehicle leasing"""	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	0.89	Phrase	0	0	0.00%	0	0	0	6	0	0	0.00%	0	0	 --	 --	 --
+enabled	leasing Mercedes	Mercedes	Mercedes-Benz M	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+paused	 +bmw +1 +series +diesel +lease	BMW	BMW 1series	campaign paused	1.3	Broad	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+enabled	no deposit Peugeot lease	Peugeot	Peugeot 107	eligible	1.2	Broad	82	2145	3.82%	0.95	77.87	3.6	6	1	77.87	1.22%	0	3	83.91%	100.00%	16.09%
+enabled	"""lease Toyota avensis"""	Toyota	Toyota Avensis	campaign paused	0.89	Phrase	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+paused	a vehicle lease	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+paused	lease a car	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	lease cars bad credit	Bad Credit Leasing	Bad Credit	eligible	1.35	Broad	1430	16098	8.88%	1.13	"1,616.48"	3.6	10	105	15.4	7.34%	25	122	65.75%	45.63%	21.33%
+enabled	"""lease car bad credit"""	Bad Credit Leasing	Bad Credit	eligible	1.3	Phrase	6	55	10.91%	1.18	7.09	3.7	10	0	0	0.00%	0	0	34.59%	37.38%	15.09%
+enabled	"""0 deposit lease cars"""	No Deposit Deals	No Deposit Deals	eligible	0.99	Phrase	26	157	16.56%	0.84	21.75	1.5	9	1	21.75	3.85%	0	0	90.75%	90.51%	0.58%
+enabled	Quick delivery car leasing	Bad Credit Leasing	Quick Cars	Below first page bid (First page CPC : 1.20)	0.9	Broad	167	2498	6.69%	0.61	102.44	2.7	8	6	17.07	3.59%	4	2	31.39%	 --	41.66%
+paused	"""personal vehicle leasing"""	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	0.89	Phrase	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+enabled	vw caddy lease	VW Transporter	VW Caddy	campaign paused	0.59	Broad	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+enabled	bmw 1 series	BMW	BMW 1series	campaign paused	0.67	Broad	0	0	0.00%	0	0	0	5	0	0	0.00%	0	0	 --	 --	 --
+paused	 +bad +credit +car +allowance	Bad Credit Leasing	Bad Credit	paused	0.99	Broad	0	0	0.00%	0	0	0	6	0	0	0.00%	0	0	 --	 --	 --
+enabled	used car leases	Generic Car Leasing	Used Car Leasing	eligible	auto: 0.22	Broad	212	8608	2.46%	0.26	55.74	5.4	10	4	13.94	1.89%	1	4	27.83%	45.00%	60.99%
+paused	personal vehicle leasing uk	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	6	0	0	0.00%	0	0	 --	 --	 --
+paused	insignia vauxhall	Vauxhall	Vauxhall Insignia (Petrol)	paused	0.59	Broad	0	0	0.00%	0	0	0	5	0	0	0.00%	0	0	 --	 --	 --
+paused	lease mini cooper	Mini	Mini Cooper	campaign paused	0.75	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+enabled	Citroen lease	CitroenC2	CitroenC2	campaign paused	0.45	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	leasing cars with bad credit	Bad Credit Leasing	Bad Credit	eligible	0.99	Broad	863	12446	6.93%	0.97	837.8	3.8	10	50	16.76	5.79%	8	77	61.38%	58.81%	33.62%
+enabled	"""leasing peugeot 107"""	Peugeot	Peugeot 107	eligible	0.79	Phrase	0	21	0.00%	0	0	3.4	6	0	0	0.00%	0	0	100.00%	100.00%	0.00%
+enabled	used cars leasing	Generic Car Leasing	Used Car Leasing	eligible	auto: 0.22	Broad	5	51	9.80%	0.25	1.27	5	10	0	0	0.00%	0	0	< 10%	62.07%	1.10%
+paused	"""car leasing deals uk"""	Hippo Leasing	Hippo Leasing (Generic)	paused	0.98	Phrase	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+paused	van leasing no deposit	Vans	Peugeot Van (Partner)	campaign paused	auto: 2.78	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	no deposit Peugeot leasing	Peugeot	Peugeot 107	low search volume	0.79	Broad	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""audi a3 leasing"""	Audi	Audi A3	eligible	0.99	Phrase	12	426	2.82%	0.87	10.42	4.9	6	0	0	0.00%	0	0	75.13%	66.23%	15.17%
+paused	Renault Megane dynamique CC	Renault	Renault Megane	campaign paused	1	Broad	0	0	0.00%	0	0	0	3	0	0	0.00%	0	0	 --	 --	 --
+enabled	volvo lease	Volvo	Volvo XC90 D5	campaign paused	0.54	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+enabled	Mitsubishi Shogan lease	Mitsubishi	Mitsubishi Shogan	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	5	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""hyundai i10 specials"""	Hyundai	Hyundai (i10)	campaign paused	0.99	Phrase	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+paused	vehicle leasing offers	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+paused	 +no +deposit +bmw +1 +series +lease	BMW	BMW 1series	campaign paused	0.67	Broad	0	0	0.00%	0	0	0	6	0	0	0.00%	0	0	 --	 --	 --
+paused	fiat leasing	Fiat Punto	Fiat Punto	paused	0.89	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+paused	cheap corsa leasing	Vauxhall Corsa	Vauxhall Corsa (1.4 SXI)	campaign paused	0.99	Broad	0	0	0.00%	0	0	0	6	0	0	0.00%	0	0	 --	 --	 --
+enabled	vauxhall astra twin top	Vauxhall Astra (Petrol)	Vauxhall Astra Twin Top	campaign paused	0.5	Broad	0	0	0.00%	0	0	0	6	0	0	0.00%	0	0	 --	 --	 --
+paused	online vehicle leasing	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+enabled	lease Hyundai	Hyundai	Hyundia i30 (1.4 Active)	campaign paused	0.8	Broad	0	0	0.00%	0	0	0	6	0	0	0.00%	0	0	 --	 --	 --
+paused	vauxhall corsa sxi	Vauxhall Corsa	Vauxhall Corsa (1.4 SXI)	campaign paused	0.99	Broad	0	0	0.00%	0	0	0	3	0	0	0.00%	0	0	 --	 --	 --
+enabled	207 Lease Peugeot	Peugeot 207	Peugeot 207	campaign paused	0.5	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	lease volkswagen vans	VW Transporter	VW Caddy	campaign paused	0.59	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+paused	"""leasing car quote"""	Personal Leasing Quotes	Quick Leasing Quote (Generic)	paused	0.98	Phrase	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+enabled	[van lease no deposit]	Vans	No Deposit Van Leasing	campaign paused	auto: 2.78	Exact	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+enabled	car and vehicle leasing	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	6	0	0	0.00%	0	0	 --	 --	 --
+paused	[buy range rover]	Range Rover	Range Rover Sport	campaign paused	0.5	Exact	0	0	0.00%	0	0	0	4	0	0	0.00%	0	0	 --	 --	 --
+enabled	peugeot 308	Peugeot 207	Peugeot 308	campaign paused	0.56	Broad	0	0	0.00%	0	0	0	4	0	0	0.00%	0	0	 --	 --	 --
+enabled	Shogan lease	Mitsubishi	Mitsubishi Shogan	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	4	0	0	0.00%	0	0	 --	 --	 --
+enabled	vw caddy	VW Transporter	VW Caddy	campaign paused	0.59	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	lease range rover	RangeRover	2.7 TDV6 HSE	campaign paused	0.55	Broad	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+enabled	Leasing jaguar xf	Jaguar	Jaguar Premium Luxury	campaign paused	0.45	Broad	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""leasing golf"""	VW	VW Golf	campaign paused	0.87	Phrase	17	627	2.71%	0.66	11.21	3.5	7	2	5.6	11.76%	0	0	64.37%	95.08%	35.63%
+paused	Ford Focus 1.6 TDCI Lease	Ford	Ford Focus (1.6 TDCI)	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	3	0	0	0.00%	0	0	 --	 --	 --
+paused	business lease cars no deposit	No Deposit Deals	No Deposit Deals	paused	0.99	Broad	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+paused	personal car lease offers	Personal Leasing Quotes	Quick Leasing Quote (Generic)	paused	0.98	Broad	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+enabled	convertable astra lease	Vauxhall Astra (Petrol)	Vauxhall Astra Twin Top	campaign paused	0.5	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+paused	new vehicle leasing	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+enabled	transporter lease	VW Transporter	VW Commercial	campaign paused	0.56	Broad	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+enabled	convertible saab lease	Saab	Saab Linear Convert	campaign paused	0.5	Broad	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+paused	one year car lease	Generic Car Leasing	Car leasing	paused	auto: 0.89	Broad	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+enabled	used car for lease	Generic Car Leasing	Used Car Leasing	eligible	auto: 0.22	Broad	120	3931	3.05%	0.29	34.35	5.1	9	1	34.35	0.83%	0	2	21.63%	45.90%	69.85%
+enabled	"""leasing ford ka"""	Ford KA	KA (1.2 Edge)	campaign paused	1	Phrase	2	31	6.45%	0.89	1.78	4.6	6	0	0	0.00%	0	0	68.89%	94.74%	31.11%
+enabled	"""lease audi a3"""	Audi	Audi A3	eligible	0.79	Phrase	56	1463	3.83%	0.65	36.25	4.5	6	1	36.25	1.79%	0	0	72.43%	74.26%	22.57%
+paused	"""car lease quote"""	Personal Leasing Quotes	Quick Leasing Quote (Generic)	paused	1.35	Phrase	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	leasing avensis	Toyota	Toyota Avensis	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+paused	"""leasing seat"""	Seat	Seat Ibiza	campaign paused	auto: 12.00	Phrase	37	460	8.04%	3.92	145	1.6	7	0	0	0.00%	0	1	93.50%	55.56%	0.20%
+paused	"""car leasing no deposit"""	No Deposit Deals	No Deposit Deals	paused	0.99	Phrase	123	505	24.36%	0.84	103.42	1.7	6	2	51.71	1.63%	1	3	72.35%	91.78%	1.00%
+removed	car leasing deals personal	Personal Leasing Quotes	Quick Leasing Quote (Generic)	removed	 --	Broad	498	6918	7.20%	0.77	383.93	2.9	0	10	38.39	2.01%	0	7	< 10%	< 10%	0.59%
+paused	 +car +lease+ +Quote	Personal Leasing Quotes	Quick Leasing Quote (Generic)	paused	0.98	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+paused	lease a ford focus	Ford	Ford Focus (1.6 TDCI)	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	lease used cars	Generic Car Leasing	Used Car Leasing	eligible	auto: 0.22	Broad	42	771	5.45%	0.27	11.31	5	10	0	0	0.00%	0	4	24.59%	54.58%	57.19%
+enabled	lease white van	Vans	No Deposit Van Leasing	campaign paused	auto: 2.78	Broad	0	0	0.00%	0	0	0	6	0	0	0.00%	0	0	 --	 --	 --
+enabled	renault scenic leasing	Renault Grand Scenic	Renault Grand Scenic	campaign paused	0.59	Broad	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+paused	"""first vehicle leasing"""	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	1.3	Phrase	0	0	0.00%	0	0	0	5	0	0	0.00%	0	0	 --	 --	 --
+enabled	convertible leasing	Saab	Saab Linear Convert	campaign paused	0.5	Broad	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+paused	lease peugeot bipper	Vans	Peugeot Van (Partner)	campaign paused	auto: 2.78	Broad	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+paused	volkswagen van	VW Transporter	VW Caddy	campaign paused	0.59	Broad	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+enabled	used car lease programs	Generic Car Leasing	Used Car Leasing	eligible	auto: 0.22	Broad	14	394	3.55%	0.28	3.87	6	9	0	0	0.00%	0	1	40.62%	60.00%	35.36%
+enabled	range rover lease	RangeRover	3.6 TDV8 HSE	campaign paused	0.56	Broad	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""leasing Renault Clio"""	Renault	Renault Clio	campaign paused	0.89	Phrase	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+paused	vehicle leasing and contract hire	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+enabled	citroen c3 lease	Citroen	Citroen C3	campaign paused	1	Broad	0	0	0.00%	0	0	0	3	0	0	0.00%	0	0	 --	 --	 --
+removed	"""corsa lease deal"""	Vauxhall Corsa	Vauxhall Corsa (1.4 SXI)	campaign paused	 --	Phrase	27	327	8.26%	1.06	28.54	3	0	1	28.54	3.70%	0	1	86.58%	82.01%	8.49%
+enabled	Tiguan leasing	Volkswagen Tiguan	Volkswagen Tiguan	campaign paused	0.5	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+enabled	lease with no deposit Peugeot	Peugeot	Peugeot 107	low search volume	0.79	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+enabled	optima vehicle leasing	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""lease car no deposit"""	No Deposit Deals	No Deposit Deals	eligible	0.99	Phrase	374	1392	26.87%	0.89	332.28	1.6	9	10	33.23	2.67%	4	7	96.87%	98.04%	1.88%
+enabled	"""lease peugeot 107"""	Peugeot	Peugeot 107	eligible	0.99	Phrase	6	91	6.59%	0.61	3.68	3.3	8	0	0	0.00%	0	0	87.50%	74.47%	12.50%
+paused	leasing peugeot bipper	Vans	Peugeot Van (Partner)	campaign paused	auto: 2.78	Broad	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+paused	"""leasing focus"""	Ford	Ford Focus (1.6 TDCI)	campaign paused	0.89	Phrase	0	0	0.00%	0	0	0	5	0	0	0.00%	0	0	 --	 --	 --
+enabled	lease citroen c3	Citroen	Citroen C3	campaign paused	1	Broad	0	0	0.00%	0	0	0	3	0	0	0.00%	0	0	 --	 --	 --
+paused	no deposit car lease	No Deposit Deals	No Deposit Deals	paused	0.99	Broad	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+paused	freedom vehicle leasing	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+paused	golf leasing	VW	VW Golf	campaign paused	0.87	Broad	0	0	0.00%	0	0	0	6	0	0	0.00%	0	0	 --	 --	 --
+paused	"""fiat car leasing"""	Fiat Punto	Fiat Punto	paused	0.99	Phrase	0	0	0.00%	0	0	0	6	0	0	0.00%	0	0	 --	 --	 --
+paused	punto leasing	Fiat Punto	Fiat Punto	paused	0.6	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+enabled	Volkswagen Tiguan lease	Volkswagen Tiguan	Volkswagen Tiguan	campaign paused	0.5	Broad	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+paused	"""car leasing companies"""	Generic Car Leasing	Car leasing	paused	auto: 0.99	Phrase	226	2974	7.60%	0.79	178.2	2.3	9	3	59.4	1.33%	0	2	36.80%	21.39%	1.36%
+enabled	[no deposit leasing]	No Deposit Deals	No Deposit Deals	eligible	0.99	Exact	9	59	15.25%	0.82	7.35	1.3	10	1	7.35	11.11%	0	0	100.00%	100.00%	0.00%
+paused	 +bmw +1 +Series +sport +lease	BMW	BMW 1series	campaign paused	1.03	Broad	0	0	0.00%	0	0	0	6	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""lease a car with no deposit"""	No Deposit Deals	No Deposit Deals	eligible	0.45	Phrase	13	61	21.31%	0.42	5.42	2.4	9	3	1.81	23.08%	0	0	82.43%	79.03%	5.41%
+paused	Ford Focus lease	Ford	Ford Focus (1.6 TDCI)	campaign paused	0.68	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+enabled	[cheap toyota aygo]	Toyota	Toyota Aygo Blue	campaign paused	0.45	Exact	0	0	0.00%	0	0	0	6	0	0	0.00%	0	0	 --	 --	 --
+enabled	leasing volvo 4x4	Volvo	Volvo XC90 D5	campaign paused	0.54	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+paused	mini cooper leasing	Mini	Mini Cooper	campaign paused	0.75	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+paused	"""audi a4 tdi lease"""	Audi	Audi A3	paused	0.65	Phrase	0	0	0.00%	0	0	0	5	0	0	0.00%	0	0	 --	 --	 --
+enabled	[leasing cheap car]	Toyota	Toyota Aygo Blue	campaign paused	0.89	Exact	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+enabled	[ling cars]	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	1.8	Exact	0	0	0.00%	0	0	0	5	0	0	0.00%	0	0	 --	 --	 --
+enabled	Hyundai lease	Hyundai	Hyundia i30 (1.4 Active)	campaign paused	1	Broad	0	0	0.00%	0	0	0	5	0	0	0.00%	0	0	 --	 --	 --
+enabled	hyundai i10 lease	Hyundai	Hyundai (i10)	campaign paused	1.05	Broad	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+paused	"""car lease"""	Generic Car Leasing	Car leasing	paused	auto: 0.22	Phrase	46	635	7.24%	0.61	28.07	2.4	10	1	28.07	2.17%	0	0	< 10%	< 10%	0.53%
+enabled	leasing Citroen	CitroenC2	CitroenC2	campaign paused	0.45	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+paused	leasing unde 100	Chevrolet	Cherolet Spark	campaign paused	0.59	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+paused	no deposit leasing van	Vans	Peugeot Van (Partner)	campaign paused	auto: 2.78	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""lease cheap small car"""	Toyota	Toyota Aygo Blue	campaign paused	0.45	Phrase	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	volkswagen van leasing	VW Transporter	VW Caddy	campaign paused	0.59	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+paused	Renault convertible lease	Renault Megane	Megane CC	campaign paused	0.55	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+paused	lease under 100	Chevrolet	Cherolet Spark	campaign paused	0.59	Broad	0	0	0.00%	0	0	0	6	0	0	0.00%	0	0	 --	 --	 --
+paused	car leasing finance	Generic Car Leasing	Car leasing	paused	auto: 0.89	Broad	175	1798	9.73%	0.71	124.6	2.6	7	0	0	0.00%	2	3	< 10%	< 10%	0.50%
+enabled	"""peugeot 107 leasing"""	Peugeot	Peugeot 107	eligible	0.79	Phrase	2	33	6.06%	0.7	1.4	3.2	6	0	0	0.00%	0	0	100.00%	100.00%	0.00%
+enabled	"""van peugeot lease"""	Vans	Peugeot Van (Partner)	campaign paused	auto: 2.78	Phrase	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+enabled	hippo leasing ex demo	Hippo Leasing	Hippo Leasing (Generic)	low search volume	0.98	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+paused	"""vauxhall corsa lease"""	Vauxhall Corsa	Vauxhall Corsa (1.4 SXI)	campaign paused	1.3	Phrase	32	850	3.76%	0.98	31.41	3.4	6	0	0	0.00%	0	2	86.91%	84.70%	6.44%
+enabled	leasing used cars	Generic Car Leasing	Used Car Leasing	eligible	auto: 0.22	Broad	58	2499	2.32%	0.25	14.25	5.6	10	0	0	0.00%	0	3	27.07%	54.97%	61.82%
+enabled	[leasing seat ibiza]	Seat	Seat Ibiza	campaign paused	auto: 12.00	Exact	2	10	20.00%	3.66	7.31	1.1	8	0	0	0.00%	0	0	71.43%	71.43%	0.00%
+enabled	lease Chrysler	Chrysler Sebring	Chrysler	campaign paused	0.68	Broad	0	0	0.00%	0	0	0	5	0	0	0.00%	0	0	 --	 --	 --
+enabled	range rover lease	RangeRover	2.7 TDV6 HSE	campaign paused	0.55	Broad	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+enabled	all car leasing	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	6	0	0	0.00%	0	0	 --	 --	 --
+enabled	leasing saab convertible	Saab	Saab Linear Convert	campaign paused	0.5	Broad	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+enabled	lease car bad credit	Bad Credit Leasing	Bad Credit	eligible	1.29	Broad	1596	31699	5.03%	1.05	"1,668.55"	5.1	10	113	14.77	7.08%	33	124	27.52%	53.92%	67.09%
+enabled	[lease van no deposit]	Vans	No Deposit Van Leasing	campaign paused	auto: 2.78	Exact	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+paused	car leasing prestige	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	leasing Chrysler Sebring	Chrysler Sebring	Chrysler	campaign paused	0.68	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""car leasing bad credit"""	Bad Credit Leasing	Bad Credit	eligible	1.3	Phrase	682	5906	11.55%	1.23	837.8	3.3	10	59	14.2	8.65%	12	53	67.97%	69.68%	23.88%
+enabled	can you lease a used car	Generic Car Leasing	Used Car Leasing	eligible	auto: 0.22	Broad	58	427	13.58%	0.28	16.14	3.2	9	2	8.07	3.45%	0	0	33.94%	59.43%	27.34%
+paused	renault grande scenic	GRANDE SCENIC	GRANDE SCENIC	campaign paused	0.65	Broad	0	0	0.00%	0	0	0	4	0	0	0.00%	0	0	 --	 --	 --
+paused	cheap van leasing deals	Vans	No Deposit Van Leasing	campaign paused	auto: 2.78	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+enabled	leasing alfa romeo	Alfa Romeo	Alfa Romeo Mito	campaign paused	0.45	Broad	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+enabled	dodge nitro leasing	Dodge nitro	Dodge nitro	campaign paused	0.77	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+paused	private car leasing	Generic Car Leasing	Car leasing	paused	auto: 0.89	Broad	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""lease chevrolet spark"""	Chevrolet	Cherolet Spark	campaign paused	0.59	Phrase	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+enabled	no deposit juke lease	Nissan	Nissan Duke	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	6	0	0	0.00%	0	0	 --	 --	 --
+paused	fiat punto leasing	New 2 You	New 2 You (Generic)	campaign paused	1	Broad	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+paused	leasing Grande Punto	Fiat Punto	Fiat Punto	paused	0.65	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+paused	leasing vauxhall corsa	Vauxhall Corsa	Vauxhall Corsa (1.4 SXI)	campaign paused	1.2	Broad	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+enabled	Subaru Impreza leasing	Subaru Impreza	Subaru Impreza	campaign paused	0.69	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	lease small deposit	No Deposit Deals	No Deposit Deals	eligible	0.99	Broad	51	290	17.59%	0.8	40.84	2.1	8	4	10.21	7.84%	2	0	61.05%	 --	32.00%
+enabled	Ex demo hyundai i10	Hyundai	Hyundai (i10)	campaign paused	1	Broad	0	0	0.00%	0	0	0	5	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""cheapest car lease deals no deposit"""	No Deposit Deals	No Deposit Deals	eligible	0.99	Phrase	23	79	29.11%	0.89	20.55	2.1	8	1	20.55	4.35%	0	0	53.74%	53.42%	1.36%
+paused	[car lease]	Generic Car Leasing	Car leasing	paused	auto: 0.89	Exact	18	272	6.62%	0.71	12.86	3	10	0	0	0.00%	0	0	< 10%	< 10%	0.03%
+enabled	hippo car lease	Hippo Leasing	Hippo Leasing (Generic)	eligible	0.98	Broad	576	3163	18.21%	0.47	268.39	2	10	15	17.89	2.61%	8	20	74.48%	73.15%	17.28%
+enabled	"""short term lease"""	Short term leasing	Short term leasing	campaign paused	2	Phrase	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""leasing peugeot van"""	Vans	Peugeot Van (Partner)	campaign paused	auto: 2.78	Phrase	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+paused	city vehicle leasing	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	5	0	0	0.00%	0	0	 --	 --	 --
+enabled	Lease Peugeot 207	Peugeot 207	Peugeot 207	campaign paused	0.5	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""lease bad credit"""	Bad Credit Leasing	Bad Credit	eligible	0.99	Phrase	36	562	6.41%	0.93	33.63	4.3	10	2	16.82	5.56%	1	9	60.69%	63.89%	29.91%
+enabled	"""cheap van lease hire"""	Vans	No Deposit Van Leasing	campaign paused	auto: 2.78	Phrase	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+enabled	Mercedes Benz lease	Mercedes	Mercedes-Benz M	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	4	0	0	0.00%	0	0	 --	 --	 --
+paused	 +car +lease +quote	Bad Credit Leasing	Quick Cars	paused	0.99	Broad	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+removed	cheap car leasing deals	No Deposit Deals	No Deposit Deals	removed	 --	Broad	344	2786	12.35%	0.84	289.22	2	0	6	48.2	1.74%	2	2	22.20%	< 10%	1.28%
+paused	car lease specials	Generic Car Leasing	Car leasing	paused	auto: 0.89	Broad	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+paused	car lease deals	New 2 You	New 2 You (Generic)	campaign paused	1	Broad	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+paused	lease chevrolet	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+paused	Ford Focus 1.8 TDCI Contract Hire	Ford	Ford Focus (1.6 TDCI)	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	4	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""lease nissan juke"""	Nissan	Nissan Duke	campaign paused	1.2	Phrase	0	0	0.00%	0	0	0	6	0	0	0.00%	0	0	 --	 --	 --
+enabled	used car leasing special offers	Generic Car Leasing	Used Car Leasing	eligible	auto: 0.22	Broad	234	6593	3.55%	0.28	66.04	5.6	9	1	66.04	0.43%	0	5	21.69%	25.00%	53.08%
+paused	hippo car lease	No Deposit Deals	No Deposit Deals	paused	0.99	Broad	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""lease with no deposit"""	No Deposit Deals	No Deposit Deals	eligible	0.99	Phrase	19	97	19.59%	0.8	15.24	1.6	10	1	15.24	5.26%	0	0	98.98%	100.00%	0.00%
+paused	leasing mini cooper	Mini	Mini Cooper	campaign paused	0.75	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+enabled	Volvo D5	Volvo	Volvo XC90 D5	campaign paused	0.54	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""lease toyota"""	Toyota	Toyota Aygo Blue	campaign paused	0.45	Phrase	0	0	0.00%	0	0	0	6	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""car lease no deposit"""	No Deposit Deals	No Deposit Deals	eligible	0.99	Phrase	156	659	23.67%	0.82	127.91	1.6	10	7	18.27	4.49%	0	2	92.69%	97.49%	2.11%
+enabled	lease bmw sport	BMW	BMW 1series	campaign paused	0.67	Broad	0	0	0.00%	0	0	0	5	0	0	0.00%	0	0	 --	 --	 --
+paused	used vehicle leasing	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+paused	"""lease van"""	Vans	Peugeot Van (Partner)	campaign paused	auto: 1.50	Phrase	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+paused	hippo leasing	No Deposit Deals	No Deposit Deals	paused	0.99	Broad	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+enabled	leasing vauxhall astra convertible	Vauxhall Astra (Petrol)	Vauxhall Astra Twin Top	campaign paused	0.5	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""cheap van leasing no deposit"""	Vans	No Deposit Van Leasing	campaign paused	auto: 2.78	Phrase	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+enabled	lease used car	Generic Car Leasing	Used Car Leasing	eligible	auto: 0.22	Broad	6	170	3.53%	0.28	1.65	3.7	10	0	0	0.00%	0	0	< 10%	49.03%	4.53%
+enabled	hippo lease cars	Hippo Leasing	Hippo Leasing (Generic)	eligible	0.98	Broad	453	2389	18.96%	0.52	237.22	2	10	15	15.81	3.31%	1	11	91.92%	100.00%	8.08%
+paused	Leasing no deposit	No Deposit Deals	No Deposit Deals	paused	0.99	Broad	187	983	19.02%	0.78	144.97	2	6	2	72.48	1.07%	0	2	84.16%	80.00%	3.08%
+enabled	vw transporter lease	VW Transporter	VW Commercial	campaign paused	0.56	Broad	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+paused	"""car leasing quote"""	Personal Leasing Quotes	Quick Leasing Quote (Generic)	paused	1.08	Phrase	0	0	0.00%	0	0	0	5	0	0	0.00%	0	0	 --	 --	 --
+paused	peugeot leasing	Peugeot	Peugeot 107	paused	0.99	Broad	0	0	0.00%	0	0	0	6	0	0	0.00%	0	0	 --	 --	 --
+enabled	lease a used car	Generic Car Leasing	Used Car Leasing	eligible	auto: 0.22	Broad	67	958	6.99%	0.24	16.33	4.5	9	1	16.33	1.49%	0	1	23.64%	51.22%	58.24%
+enabled	Volvo XC90	Volvo	Volvo XC90 D5	campaign paused	0.54	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""car lease financing"""	Generic Car Leasing	Car leasing	eligible	auto: 0.22	Phrase	0	29	0.00%	0	0	7.3	9	0	0	0.00%	0	0	23.58%	25.49%	60.98%
+enabled	"""cheap small car lease"""	Toyota	Toyota Aygo Blue	campaign paused	1	Phrase	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+enabled	lease volkswagen van	VW Transporter	VW Caddy	campaign paused	0.59	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	[van leasing no deposit]	Vans	No Deposit Van Leasing	campaign paused	auto: 2.78	Exact	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+removed	vauxhall insignia lease	Vauxhall	Vauxhall Insignia (Petrol)	removed	 --	Broad	127	2471	5.14%	0.79	100.56	3.8	0	2	50.28	1.57%	0	2	71.62%	81.36%	11.83%
+enabled	Leasing Jaguar	Jaguar	Jaguar Premium Luxury	campaign paused	0.45	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+paused	business vehicle leasing	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	1.12	Broad	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+enabled	 +zero +deposit +car +lease	No Deposit	No deposit	campaign paused	0.98	Broad	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+paused	vehicle leasing services	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	dcmd vehicle leasing	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	6	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""lease ford ka"""	Ford KA	KA (1.2 Edge)	campaign paused	1	Phrase	6	142	4.23%	0.76	4.58	4	6	0	0	0.00%	0	0	85.03%	89.06%	13.77%
+enabled	Subaru lease	Subaru Impreza	Subaru Impreza	campaign paused	0.69	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	leasing renault scenic	Renault Grand Scenic	Renault Grand Scenic	campaign paused	0.59	Broad	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+enabled	[short term leasing]	Short term leasing	Short term leasing	campaign paused	1.79	Exact	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+paused	[van leasing]	Vans	Peugeot Van (Partner)	campaign paused	auto: 2.50	Exact	0	0	0.00%	0	0	0	5	0	0	0.00%	0	0	 --	 --	 --
+paused	Immediate car leasing	Bad Credit Leasing	Quick Cars	paused	0.6	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+paused	"""ford focus lease"""	Ford	Ford Focus (1.6 TDCI)	campaign paused	0.89	Phrase	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+removed	ford ka leasing	Ford KA	KA (1.2 Edge)	campaign paused	 --	Broad	37	2530	1.46%	0.79	29.28	5.2	0	0	0	0.00%	0	2	48.41%	70.00%	49.84%
+removed	"""audi a4 leasing"""	Audi	Audi A3	removed	 --	Phrase	1	51	1.96%	0.98	0.98	5.3	0	0	0	0.00%	0	0	78.12%	67.74%	21.88%
+enabled	lease Shogan	Mitsubishi	Mitsubishi Shogan	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	4	0	0	0.00%	0	0	 --	 --	 --
+paused	 +no +deposit +peugeot +107 +lease	Peugeot	Peugeot 107	paused	0.79	Broad	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""lease with bad credit"""	Bad Credit Leasing	Bad Credit	eligible	0.99	Phrase	28	392	7.14%	0.9	25.21	3.3	10	2	12.6	7.14%	0	1	68.06%	63.33%	26.91%
+paused	"""renault megane 1.6"""	Renault	Renault Megane	campaign paused	1	Phrase	0	0	0.00%	0	0	0	3	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""lease a hyundai"""	Hyundai	Hyundai (i10)	campaign paused	0.99	Phrase	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+enabled	lease a bmw 1 series	BMW	BMW 1series	campaign paused	0.67	Broad	0	0	0.00%	0	0	0	6	0	0	0.00%	0	0	 --	 --	 --
+paused	[personal car leasing]	Personal Leasing Quotes	Quick Leasing Quote (Generic)	paused	0.98	Exact	74	587	12.61%	0.79	58.21	2.3	9	0	0	0.00%	1	2	21.69%	21.69%	0.22%
+paused	car lease contract	Generic Car Leasing	Car leasing	paused	auto: 0.89	Broad	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+removed	lease car no deposit	No Deposit Deals	No Deposit Deals	removed	 --	Broad	269	1847	14.56%	0.88	236.07	2.2	0	9	26.23	3.35%	4	9	62.04%	 --	4.32%
+enabled	lease range rover	RangeRover	2.7 TDV6 S	campaign paused	0.55	Broad	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+paused	vehicle leasing special offers	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+paused	lease zero deposit	No Deposit Deals	No Deposit Deals	paused	0.99	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+paused	chevrolet matiz lease	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	commercial vehicle leasing	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""lease cars with no deposit"""	No Deposit Deals	No Deposit Deals	eligible	0.99	Phrase	86	285	30.18%	0.88	75.53	1.5	9	5	15.11	5.81%	1	2	98.62%	98.03%	0.69%
+paused	cheap van lease no deposit	Vans	No Deposit Van Leasing	campaign paused	auto: 2.78	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+enabled	lease honda	Honda	Honda	campaign paused	0.69	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	 +no +deposit +car +lease	No Deposit	No deposit	campaign paused	0.98	Broad	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+enabled	volkswagen vans	VW Transporter	VW Caddy	campaign paused	0.59	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+paused	no deposit lease	No Deposit Deals	No Deposit Deals	paused	0.99	Broad	131	958	13.67%	0.83	109.2	2.7	9	3	36.4	2.29%	2	3	38.09%	100.00%	6.64%
+paused	lease ka	Ford KA	KA (1.2 Edge)	campaign paused	1	Broad	38	1366	2.78%	0.85	32.14	3.6	8	1	32.14	2.63%	0	0	76.83%	100.00%	21.43%
+enabled	saab linear convertible	Saab	Saab Linear Convert	campaign paused	0.5	Broad	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+enabled	lease Mercedes	Mercedes	Mercedes-Benz M	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+paused	"""focus leasing"""	Ford	Ford Focus (1.6 TDCI)	campaign paused	0.89	Phrase	0	0	0.00%	0	0	0	5	0	0	0.00%	0	0	 --	 --	 --
+enabled	Mercedes lease	Mercedes	Mercedes-Benz M	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""leasing Renault Megane"""	Renault	Renault Megane	campaign paused	1	Phrase	0	0	0.00%	0	0	0	5	0	0	0.00%	0	0	 --	 --	 --
+enabled	Subaru Impreza lease	Subaru Impreza	Subaru Impreza	campaign paused	0.69	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+enabled	4x4 volvo	Volvo	Volvo XC90 D5	campaign paused	0.54	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+paused	car vehicle leasing	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""leasing ford transit van"""	Ford Transit	Ford Transit	campaign paused	1.5	Phrase	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+paused	matiz	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	3	0	0	0.00%	0	0	 --	 --	 --
+enabled	frontier leasing	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	1.3	Broad	0	0	0.00%	0	0	0	6	0	0	0.00%	0	0	 --	 --	 --
+paused	vehicle leasing options	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+enabled	lease convertible astra	Vauxhall Astra (Petrol)	Vauxhall Astra Twin Top	campaign paused	0.5	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+enabled	leasing a used car	Generic Car Leasing	Used Car Leasing	eligible	auto: 0.22	Broad	55	1272	4.32%	0.28	15.59	5.2	9	0	0	0.00%	0	2	24.63%	55.17%	49.05%
+enabled	range rover Sport 3.6 TDV8 HSE	Range Rover	Range Rover Sport	campaign paused	0.5	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	116 bmw leasing	BMW	BMW 1series	campaign paused	0.67	Broad	0	0	0.00%	0	0	0	3	0	0	0.00%	0	0	 --	 --	 --
+enabled	dodge nitro lease	Dodge nitro	Dodge nitro	campaign paused	0.77	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+enabled	Alfa Romeo Mito 1.4 leasing	Alfa Romeo	Alfa Romeo Mito	campaign paused	0.45	Broad	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+enabled	bmw 120	BMW	BMW 1series	campaign paused	0.67	Broad	0	0	0.00%	0	0	0	5	0	0	0.00%	0	0	 --	 --	 --
+enabled	Peugeot lease no deposit	Peugeot	Peugeot 107	eligible	0.79	Broad	4	79	5.06%	0.5	2	3.3	6	1	2	25.00%	0	0	95.18%	93.94%	4.82%
+paused	lease Renault megane	Renault Megane	Megane CC	campaign paused	0.55	Broad	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+paused	"""audi sport lease"""	Audi	Audi A3	paused	0.65	Phrase	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	lease twin top astra	Vauxhall Astra (Petrol)	Vauxhall Astra Twin Top	campaign paused	0.5	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+paused	vehicle leasing uk	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+paused	hippo vehicle lease	No Deposit Deals	No Deposit Deals	paused	0.99	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+paused	fiat punto lease	Fiat Punto	Fiat Punto	paused	0.6	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+enabled	hippo lease	Hippo Leasing	Hippo Leasing (Generic)	eligible	0.98	Broad	402	1787	22.50%	0.2	78.77	1.7	10	16	4.92	3.98%	6	11	72.38%	90.68%	22.20%
+paused	leasing Fiat Punto	Fiat Punto	Fiat Punto	paused	0.89	Broad	36	597	6.03%	0.7	25.25	2.7	6	0	0	0.00%	1	0	87.81%	100.00%	12.19%
+paused	transporter	VW Transporter	VW Commercial	campaign paused	0.56	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	range rover leases	RangeRover	2.7 TDV6 HSE	campaign paused	0.55	Broad	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+enabled	[lease seat ibiza]	Seat	Seat Ibiza	campaign paused	auto: 12.00	Exact	13	60	21.67%	3.05	39.7	1.4	7	0	0	0.00%	0	0	61.86%	61.86%	0.00%
+enabled	Volkswagen transporter	VW Transporter	VW Commercial	campaign paused	0.56	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	used car leasing deals	Generic Car Leasing	Used Car Leasing	eligible	auto: 0.22	Broad	454	19614	2.31%	0.28	127.81	6.1	8	5	25.56	1.10%	1	21	23.31%	39.29%	64.44%
+enabled	[seat ibiza lease]	Seat	Seat Ibiza	campaign paused	auto: 12.00	Exact	64	403	15.88%	3.72	237.77	1.7	6	2	118.88	3.12%	0	0	77.06%	77.06%	0.00%
+paused	cars on lease no deposit	No Deposit Deals	No Deposit Deals	paused	0.99	Broad	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+enabled	leasing range rover	RangeRover	2.7 TDV6 S	campaign paused	0.55	Broad	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+paused	"""leasing audi a4"""	Audi	Audi A3	paused	0.99	Phrase	0	0	0.00%	0	0	0	6	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""leasing transit van"""	Ford Transit	Ford Transit	campaign paused	1.29	Phrase	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+enabled	Citroen C2 leasing	CitroenC2	CitroenC2	campaign paused	0.45	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""ford ka lease"""	Ford KA	KA (1.2 Edge)	campaign paused	1	Phrase	80	905	8.84%	0.82	65.25	2.9	8	1	65.25	1.25%	0	3	90.05%	93.01%	9.25%
+enabled	clio lease	Renault	Renault Clio	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+paused	small deposit leasing	No Deposit Deals	No Deposit Deals	paused	0.99	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+paused	clio leasing	Renault	Renault Clio	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+enabled	nissan juke lease	Nissan	Nissan Duke	campaign paused	1.4	Broad	0	0	0.00%	0	0	0	6	0	0	0.00%	0	0	 --	 --	 --
+paused	mini cooper lease	Mini	Mini Cooper	campaign paused	0.75	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+paused	student car lease	Chevrolet	Cherolet Spark	campaign paused	0.59	Broad	0	0	0.00%	0	0	0	6	0	0	0.00%	0	0	 --	 --	 --
+enabled	seat dynamique	GRANDE SCENIC	GRANDE SCENIC	campaign paused	0.65	Broad	0	0	0.00%	0	0	0	4	0	0	0.00%	0	0	 --	 --	 --
+enabled	renault scenic lease	Renault Grand Scenic	Renault Grand Scenic	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+paused	Volkswagen Golf	VW	VW Golf	campaign paused	0.87	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""cheap lease juke"""	Nissan	Nissan Duke	campaign paused	0.89	Phrase	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""vehicle leasing bad credit"""	Bad Credit Leasing	Bad Credit	eligible	1.3	Phrase	19	100	19.00%	1.12	21.34	3	10	4	5.34	21.05%	0	1	85.47%	85.71%	5.98%
+enabled	"""bad credit car lease"""	Bad Credit Leasing	Bad Credit	eligible	1.2	Phrase	144	1235	11.66%	1.14	163.5	3.9	10	13	12.58	9.03%	3	11	56.65%	58.58%	32.11%
+enabled	used car lease	Generic Car Leasing	Used Car Leasing	eligible	auto: 0.22	Broad	432	18151	2.38%	0.24	101.55	5.3	10	4	25.39	0.93%	3	8	< 10%	51.94%	87.69%
+removed	cheapest car lease deals no deposit	No Deposit Deals	No Deposit Deals	removed	 --	Broad	250	1123	22.26%	0.85	212.19	1.7	0	9	23.58	3.60%	2	3	82.39%	57.89%	1.84%
+enabled	"""lease small car"""	Toyota	Toyota Aygo Blue	campaign paused	1	Phrase	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""lease a ford focus"""	Ford	Ford Focus (1.6 TDCI)	campaign paused	1.75	Phrase	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+paused	vw transporter	VW Transporter	VW Commercial	campaign paused	0.56	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+paused	Renault convertible deals	Renault Megane	Megane CC	campaign paused	0.55	Broad	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+enabled	lease a porsche	Porsche	Porsche Boxster	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	6	0	0	0.00%	0	0	 --	 --	 --
+enabled	lease ford tansit	Ford Transit	Ford Transit	campaign paused	1.12	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+enabled	leasing Hyundai	Hyundai	Hyundia i30 (1.4 Active)	campaign paused	0.69	Broad	0	0	0.00%	0	0	0	6	0	0	0.00%	0	0	 --	 --	 --
+enabled	lease corsa no deposit	Vauxhall Corsa	Corsa No deposit	campaign paused	0.99	Broad	228	1780	12.81%	0.66	149.92	2.5	10	3	49.97	1.32%	2	4	82.41%	 --	4.26%
+enabled	"""ford ka leasing"""	Ford KA	KA (1.2 Edge)	campaign paused	0.9	Phrase	5	58	8.62%	0.87	4.34	4.7	6	0	0	0.00%	0	0	84.06%	94.44%	15.94%
+paused	Renault megane convertible lease	Renault Megane	Megane CC	campaign paused	0.55	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+paused	lease work van	Vans	Peugeot Van (Partner)	campaign paused	auto: 2.78	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""Hyundai leasing"""	Hyundai	Hyundia i30 (1.4 Active)	campaign paused	0.69	Phrase	0	0	0.00%	0	0	0	5	0	0	0.00%	0	0	 --	 --	 --
+enabled	leasing a porsche	Porsche	Porsche Boxster	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+paused	leasing a fiat	Fiat Punto	Fiat Punto	paused	1	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+paused	"""cheap car leasing no deposit"""	No Deposit Deals	No Deposit Deals	paused	0.99	Phrase	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+enabled	Renault megane lease	Renault Megane	Megane CC	campaign paused	0.55	Broad	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+enabled	Chrysler Sebring lease	Chrysler Sebring	Chrysler	campaign paused	0.68	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+paused	"""leasing van"""	Vans	Peugeot Van (Partner)	campaign paused	auto: 1.30	Phrase	0	0	0.00%	0	0	0	5	0	0	0.00%	0	0	 --	 --	 --
+enabled	leasing toyota aygo	Toyota	Toyota Aygo Blue	campaign paused	0.9	Broad	0	0	0.00%	0	0	0	6	0	0	0.00%	0	0	 --	 --	 --
+paused	Renault convertible leasing deals	Renault Megane	Megane CC	campaign paused	0.55	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""lease cheap insignia"""	Vauxhall	Vauxhall Insignia (Petrol)	low search volume	0.99	Phrase	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+paused	car leasing prices	Generic Car Leasing	Car leasing	paused	auto: 0.89	Broad	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+paused	car leasing companies uk	Hippo Leasing	Hippo Leasing (Generic)	paused	0.98	Broad	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+enabled	lease Tiguan	Volkswagen Tiguan	Volkswagen Tiguan	campaign paused	0.5	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+enabled	volvo leasing	Volvo	Volvo XC90 D5	campaign paused	0.54	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+paused	car leasing new	Generic Car Leasing	Car leasing	paused	auto: 0.99	Broad	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+enabled	Jaguar leasing	Jaguar	Jaguar Premium Luxury	campaign paused	0.45	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+paused	cheap lease deal	Toyota	Toyota Aygo Blue	campaign paused	0.45	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	 +chevrolet +spark +lease	Chevrolet	Cherolet Spark	campaign paused	0.59	Broad	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+paused	contract hire fiat	Fiat Punto	Fiat Punto	paused	0.55	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+paused	hippo leasing	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+enabled	leasing peugeot 308	Peugeot 207	Peugeot 308	campaign paused	0.56	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+paused	[vauxhall insignia]	Vauxhall	Vauxhall Insignia (Petrol)	paused	0.69	Exact	0	0	0.00%	0	0	0	5	0	0	0.00%	0	0	 --	 --	 --
+enabled	[no deposit van leasing]	Vans	No Deposit Van Leasing	campaign paused	auto: 2.78	Exact	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+paused	"""cheap car leasing"""	Generic Car Leasing	Car leasing	paused	auto: 0.99	Phrase	8	26	30.77%	0.76	6.07	1.7	9	0	0	0.00%	0	0	< 10%	< 10%	0.00%
+enabled	leasing car quote	Personal Leasing Quotes	Quick Leasing Quote (Generic)	eligible	1.3	Broad	34	1398	2.43%	1.03	34.92	2.5	7	1	34.92	2.94%	0	1	11.71%	< 10%	5.97%
+enabled	nissan juke lease deal	Nissan	Nissan Duke	campaign paused	1.01	Broad	0	0	0.00%	0	0	0	5	0	0	0.00%	0	0	 --	 --	 --
+enabled	hyundai i30 lease	Hyundai	Hyundia i30 (1.4 Active)	campaign paused	0.78	Broad	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+paused	cheap insignia lease	Vauxhall	Vauxhall Insignia (Petrol)	paused	1.1	Broad	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+enabled	hyundai i30	Hyundai	Hyundia i30 (1.4 Active)	campaign paused	0.69	Broad	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+paused	national vehicle leasing	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	in stock car lease deals	Bad Credit Leasing	Quick Cars	eligible	0.35	Broad	41	295	13.90%	0.29	11.88	3.2	9	2	5.94	4.88%	0	1	65.70%	36.84%	16.04%
+enabled	leasing range rover	RangeRover	2.7 TDV6 HSE	campaign paused	0.55	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+paused	leasing a car	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+paused	vehicle leasing	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	Lease Peugeot	Peugeot 207	Peugeot 207	campaign paused	0.5	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	renault seat dynamique	GRANDE SCENIC	GRANDE SCENIC	campaign paused	0.65	Broad	0	0	0.00%	0	0	0	3	0	0	0.00%	0	0	 --	 --	 --
+enabled	dodge nitro	Dodge nitro	Dodge nitro	campaign paused	0.77	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""lease short term"""	Short term leasing	Short term leasing	campaign paused	0.98	Phrase	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+enabled	 +no +deposit +chevrolet +spark	Chevrolet	Cherolet Spark	campaign paused	0.59	Broad	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+enabled	Chrysler Sebring	Chrysler Sebring	Chrysler	campaign paused	0.68	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+paused	contract vehicle leasing	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+paused	Diesel Ford Focus Lease	Ford	Ford Focus (1.6 TDCI)	campaign paused	1.75	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	leasing dodge nitro	Dodge nitro	Dodge nitro	campaign paused	0.77	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+enabled	range rover leasing	RangeRover	2.7 TDV6 HSE	campaign paused	0.55	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+enabled	Alfa Romeo Mito lease	Alfa Romeo	Alfa Romeo Mito	campaign paused	0.45	Broad	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""cheap van lease deals"""	Vans	No Deposit Van Leasing	campaign paused	auto: 2.78	Phrase	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+paused	vehicle leasing deals	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+paused	[van lease]	Vans	Peugeot Van (Partner)	campaign paused	auto: 2.00	Exact	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+paused	chevrolet matiz	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	2	0	0	0.00%	0	0	 --	 --	 --
+enabled	honda lease	Honda	Honda	campaign paused	0.69	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	Volvo XC90 D5	Volvo	Volvo XC90 D5	campaign paused	0.54	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+enabled	lease peugeot 308	Peugeot 207	Peugeot 308	campaign paused	0.56	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+paused	motor vehicle lease	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+paused	lease chev	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	Volkswagen Tiguan leasing	Volkswagen Tiguan	Volkswagen Tiguan	campaign paused	0.5	Broad	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+paused	ex fleet car lease	New 2 You	New 2 You (Generic)	campaign paused	1	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	lease 12 months	Short term leasing	Short term leasing	campaign paused	0.98	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+enabled	hyundai lease offers	Hyundai	Hyundia i30 (1.4 Active)	campaign paused	0.69	Broad	0	0	0.00%	0	0	0	6	0	0	0.00%	0	0	 --	 --	 --
+enabled	saab convertible lease	Saab	Saab Linear Convert	campaign paused	0.5	Broad	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""lease no deposit"""	No Deposit Deals	No Deposit Deals	eligible	0.99	Phrase	240	1032	23.26%	0.8	192.39	1.9	10	6	32.06	2.50%	1	2	92.06%	100.00%	1.43%
+enabled	lease dodge nitro	Dodge nitro	Dodge nitro	campaign paused	0.77	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+paused	uk car lease deals	Hippo Leasing	Hippo Leasing (Generic)	paused	0.98	Broad	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+enabled	leasing convertible	Saab	Saab Linear Convert	campaign paused	0.5	Broad	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+enabled	lease bmw 120	BMW	BMW 1series	campaign paused	0.67	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	astin martin lease	Astin Martin	Aston Martin Vantage	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""van leasing no deposit"""	Vans	No Deposit Van Leasing	campaign paused	auto: 2.78	Phrase	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+paused	0 deposit car lease	No Deposit Deals	No Deposit Deals	paused	0.99	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+paused	cars on lease uk	Hippo Leasing	Hippo Leasing (Generic)	paused	0.98	Broad	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+enabled	leasing megane	Renault Megane	Megane CC	campaign paused	0.55	Broad	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""car leasing with bad credit"""	Bad Credit Leasing	Bad Credit	eligible	1.2	Phrase	117	1217	9.61%	1.04	121.27	3.7	10	11	11.02	9.40%	1	4	55.32%	55.04%	32.95%
+enabled	"""Renault Clio lease"""	Renault	Renault Clio	campaign paused	0.89	Phrase	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+paused	car lease uk	Generic Car Leasing	Car leasing	paused	auto: 0.99	Broad	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+paused	cheapest car leasing	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+enabled	cheap Chrysler Sebring	Chrysler Sebring	Chrysler	campaign paused	0.68	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+paused	"""leasing ford focus"""	Ford	Ford Focus (1.6 TDCI)	campaign paused	0.68	Phrase	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+paused	leasing	Bad Credit Leasing	Bad Credit	paused	0.99	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+paused	nationwide contracts	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	1.91	Broad	0	0	0.00%	0	0	0	5	0	0	0.00%	0	0	 --	 --	 --
+paused	Car leasing straight away	Bad Credit Leasing	Quick Cars	paused	0.6	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+paused	Renault convertible leasing	Renault Megane	Megane CC	campaign paused	0.55	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+paused	"""bad credit leasing"""	Bad Credit Leasing	Bad Credit	paused	1.3	Phrase	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+enabled	lease Mitsubishi Shogan	Mitsubishi	Mitsubishi Shogan	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	5	0	0	0.00%	0	0	 --	 --	 --
+paused	cheap fiat punto	Fiat Punto	Fiat Punto	paused	0.65	Broad	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+enabled	Alfa Romeo Mito 1.4 lease	Alfa Romeo	Alfa Romeo Mito	campaign paused	0.45	Broad	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+paused	cheap Subaru Impreza	Subaru Impreza	Subaru Impreza	campaign paused	0.69	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+paused	used cars for lease	Generic Car Leasing	Used Car Leasing	paused	auto: 0.22	Broad	1	19	5.26%	0.41	0.41	2.9	9	0	0	0.00%	0	0	< 10%	14.29%	15.21%
+enabled	"""Megane leasing"""	Renault	Renault Megane	campaign paused	1	Phrase	0	0	0.00%	0	0	0	6	0	0	0.00%	0	0	 --	 --	 --
+enabled	second hand car leasing	Generic Car Leasing	Used Car Leasing	eligible	auto: 0.22	Broad	128	1138	11.25%	0.24	30.93	4	10	2	15.46	1.56%	0	1	36.70%	56.47%	38.57%
+enabled	"""focus ford lease"""	Ford	Ford Focus (1.6 TDCI)	campaign paused	0.99	Phrase	0	0	0.00%	0	0	0	5	0	0	0.00%	0	0	 --	 --	 --
+enabled	leasing Chrysler	Chrysler Sebring	Chrysler	campaign paused	0.68	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	elite vehicle leasing	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	6	0	0	0.00%	0	0	 --	 --	 --
+paused	renault 7 seats	Renault Grand Scenic	Renault Grand Scenic	campaign paused	0.56	Broad	0	0	0.00%	0	0	0	3	0	0	0.00%	0	0	 --	 --	 --
+paused	cheap van leasing	Vans	Peugeot Van (Partner)	campaign paused	auto: 1.75	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	bmw 116 lease	BMW	BMW 1series	campaign paused	0.67	Broad	0	0	0.00%	0	0	0	5	0	0	0.00%	0	0	 --	 --	 --
+enabled	lease a clio	Renault	Renault Clio	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+paused	work van lease	Vans	Peugeot Van (Partner)	campaign paused	auto: 2.78	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+paused	"""cheap van lease"""	Vans	No Deposit Van Leasing	campaign paused	auto: 2.78	Phrase	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""lease peugeot van"""	Vans	Peugeot Van (Partner)	campaign paused	auto: 2.78	Phrase	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+paused	Ford Focus 1.6 TDCI	Ford	Ford Focus (1.6 TDCI)	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	3	0	0	0.00%	0	0	 --	 --	 --
+paused	hawkins vehicle leasing	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	6	0	0	0.00%	0	0	 --	 --	 --
+paused	leasing ka	Ford KA	KA (1.2 Edge)	campaign paused	1	Broad	0	0	0.00%	0	0	0	6	0	0	0.00%	0	0	 --	 --	 --
+paused	renualt convertible deals	Renault Megane	Megane CC	campaign paused	0.55	Broad	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+paused	clyde vehicle leasing	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+paused	vw fox leasing	New 2 You	New 2 You (Generic)	campaign paused	1	Broad	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+enabled	porsche leasing	Porsche	Porsche Boxster	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""peugeot van leasing"""	Vans	Peugeot Van (Partner)	campaign paused	auto: 2.78	Phrase	0	0	0.00%	0	0	0	6	0	0	0.00%	0	0	 --	 --	 --
+enabled	leasing Citroen C2	CitroenC2	CitroenC2	campaign paused	0.45	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""zero deposit lease"""	No Deposit Deals	No Deposit Deals	eligible	0.8	Phrase	22	158	13.92%	0.71	15.68	1.7	10	0	0	0.00%	0	0	94.05%	90.38%	1.79%
+enabled	"""lease focus"""	Ford	Ford Focus (1.6 TDCI)	campaign paused	1.75	Phrase	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+enabled	cheap lease peugeot	Peugeot 207	Peugeot 308	campaign paused	0.56	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+paused	private vehicle leasing	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+enabled	volkswagen caddy lease	VW Transporter	VW Caddy	campaign paused	0.59	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+paused	cars on lease with bad credit	Bad Credit Leasing	Bad Credit	paused	0.99	Broad	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+enabled	Tiguan lease	Volkswagen Tiguan	Volkswagen Tiguan	campaign paused	0.5	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+paused	Jaguar premium	Jaguar	Jaguar Premium Luxury	campaign paused	0.45	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	[leasing range rover]	Range Rover	Range Rover Sport	campaign paused	0.5	Exact	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+enabled	lease Chrysler Sebring	Chrysler Sebring	Chrysler	campaign paused	0.68	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+enabled	12 months lease	Short term leasing	Short term leasing	campaign paused	0.98	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+enabled	lease toyota aygo	Toyota	Toyota Aygo Blue	campaign paused	0.9	Broad	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+enabled	Lease Peugeot 207CC	Peugeot 207	Peugeot 207	campaign paused	0.5	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+enabled	hippo vehicle leasing	Hippo Leasing	Hippo Leasing (Generic)	eligible	0.98	Broad	1815	8301	21.86%	0.26	476.2	1.4	10	64	7.43	3.54%	35	44	91.31%	87.50%	6.43%
+enabled	"""lease car with no deposit"""	No Deposit Deals	No Deposit Deals	eligible	0.99	Phrase	20	95	21.05%	0.87	17.48	1.8	9	1	17.48	5.00%	1	2	96.94%	98.75%	3.06%
+paused	new vehicle lease	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+enabled	used car lease	New 2 You	New 2 You (Generic)	campaign paused	1.1	Broad	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+paused	vehicle leasing companies	Generic Vehicle Leasing	Vehicle Leasing	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+enabled	[leasing hyundai i10]	Hyundai	Hyundai (i10)	campaign paused	0.99	Exact	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+paused	white van lease	Vans	No Deposit Van Leasing	campaign paused	auto: 2.78	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+enabled	lease Subaru Impreza	Subaru Impreza	Subaru Impreza	campaign paused	0.69	Broad	0	0	0.00%	0	0	0	10	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""lease insignia"""	Vauxhall	Vauxhall Insignia (Petrol)	eligible	1	Phrase	43	177	24.29%	0.69	29.78	1.8	10	0	0	0.00%	0	0	87.19%	85.71%	0.49%
+paused	range rover sport	Range Rover	Range Rover Sport	campaign paused	0.5	Broad	0	0	0.00%	0	0	0	6	0	0	0.00%	0	0	 --	 --	 --
+enabled	lease Mercedes Benz	Mercedes	Mercedes-Benz M	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	4	0	0	0.00%	0	0	 --	 --	 --
+paused	peugeot lease	Peugeot	Peugeot 107	paused	0.99	Broad	0	0	0.00%	0	0	0	5	0	0	0.00%	0	0	 --	 --	 --
+paused	Ford Focus 1.8 TDCI Lease	Ford	Ford Focus (1.6 TDCI)	campaign paused	0.89	Broad	0	0	0.00%	0	0	0	4	0	0	0.00%	0	0	 --	 --	 --
+paused	van lease no deposit	Vans	Peugeot Van (Partner)	campaign paused	auto: 2.78	Broad	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+paused	no deposit car leasing	No Deposit Deals	No Deposit Deals	paused	0.99	Broad	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""bad credit vehicle leasing"""	Bad Credit Leasing	Bad Credit	eligible	1.3	Phrase	13	104	12.50%	1.01	13.16	2.5	10	1	13.16	7.69%	0	0	86.67%	85.98%	0.83%
+enabled	alfa romeo leasing	Alfa Romeo	Alfa Romeo Mito	campaign paused	0.45	Broad	0	0	0.00%	0	0	0	9	0	0	0.00%	0	0	 --	 --	 --
+enabled	"""Renault Clio leasing"""	Renault	Renault Clio	campaign paused	0.89	Phrase	0	0	0.00%	0	0	0	7	0	0	0.00%	0	0	 --	 --	 --
+paused	"""small car lease"""	Chevrolet	Cherolet Spark	campaign paused	1	Phrase	0	0	0.00%	0	0	0	8	0	0	0.00%	0	0	 --	 --	 --
+Total - filtered	 --	 --	 --	 --	 --	 --	38584	437906	8.81%	0.64	"24,535.53"	3.9	 --	1412	17.37	3.66%	363	1181	26.17%	51.50%	40.42%
+Total - search	 --	 --	 --	 --	 --	 --	39200	459471	8.53%	0.64	"25,142.39"	3.9	 --	1423	17.66	3.63%	367	1187	25.82%	51.67%	38.79%
+Total - Display Network	 --	 --	 --	 --	 --	 --	6449	1230343	0.52%	0.28	"1,823.73"	1.1	 --	99	18.41	1.54%	0	0	 --	 --	 --
+Total	 --	 --	 --	 --	 --	 --	45649	1689814	2.70%	0.59	"26,966.12"	1.9	 --	1522	17.71	3.34%	367	1187	25.82%	51.67%	38.79%

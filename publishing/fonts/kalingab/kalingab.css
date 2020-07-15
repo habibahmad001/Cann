@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'KalingaBold';
+    src: url('kalingab.eot');
+    src: url('kalingab.eot') format('embedded-opentype'),
+         url('kalingab.woff') format('woff'),
+         url('kalingab.ttf') format('truetype'),
+         url('kalingab.svg#KalingaBold') format('svg');
+}

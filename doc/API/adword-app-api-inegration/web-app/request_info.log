@@ -1,0 +1,3 @@
+[May 18 2015 08:01:08.000000 - INFO] effectiveUser=810-896-4681 service=CampaignService method=get operators={} responseTime=177 requestId=00051654eba15cb00aec9903cb00508d operations=0 units= server=adwords.google.com isFault=false faultMessage=null
+[May 18 2015 07:49:23.000000 - INFO] effectiveUser=810-896-4681 service=CampaignService method=get operators={} responseTime=184 requestId=000516566f02f6a80ac479cade005275 operations=0 units= server=adwords.google.com isFault=false faultMessage=null
+[May 18 2015 10:40:37.000000 - INFO] effectiveUser=810-896-4681 service=CampaignService method=get operators={} responseTime=205 requestId=00051658d3699b400ac43f49360077ff operations=0 units= server=adwords.google.com isFault=false faultMessage=null

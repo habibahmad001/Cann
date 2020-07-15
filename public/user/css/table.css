@@ -1,0 +1,326 @@
+﻿/* ----------------------------------
+--------        TABLES      ---------
+---------------------------------- */
+
+#chat {
+	color: #565e66;
+	font-family: 'Lucida Sans', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+	border: 1px solid #d9dbde;
+	margin: 36px auto;
+	width:80%;
+
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+}
+
+table {
+
+	border-collapse: separate;
+	text-align: center;
+	vertical-align: center;
+	
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+}
+
+#chat table {
+	border: 1px solid #fbfcfd;
+	width: 100%;
+}
+
+thead td {
+
+	background: #ebedf0 url(../images/light-blue/background-texture.png) repeat 0 0;
+	border-bottom: 1px solid #dcdee0;
+	border-right: 1px solid #d5d6d9;
+	padding: 25px;
+	
+	background: url(../images/light-blue/background-texture.png) repeat 0 0, -ms-linear-gradient(
+    	top,
+    	#e6e8eb 0%,
+    	#edeff2 100%
+	);
+	background: url(../images/light-blue/background-texture.png) repeat 0 0, -moz-linear-gradient(
+    	top,
+    	#e6e8eb 0%,
+    	#edeff2 100%
+	);
+	background: url(../images/light-blue/background-texture.png) repeat 0 0, -o-linear-gradient(
+    	top,
+    	#e6e8eb 0%,
+    	#edeff2 100%
+	);
+	background: url(../images/light-blue/background-texture.png) repeat 0 0, -webkit-gradient(
+    	linear,
+    	left top,
+    	left bottom,
+    	color-stop(0, #e6e8eb),
+    	color-stop(1, #edeff2)
+	);
+	background: url(../images/light-blue/background-texture.png) repeat 0 0, -webkit-gradient(
+    	top,
+    	#e6e8eb 0%,
+    	#edeff2 100%
+	);
+	background: url(../images/light-blue/background-texture.png) repeat 0 0, linear-gradient(
+    	top,
+    	#e6e8eb 0%,
+    	#edeff2 100%
+	);
+}
+
+thead td:last-child {
+	border-right: 0;
+}
+
+thead td.highlight {
+	background: #e1e3e5 url(../images/light-blue/background-texture.png) repeat 0 0;
+	border-right-width: 1px;
+	border-left: 0px solid #d5d6d9;
+	
+	background: url(../images/light-blue/background-texture.png) repeat 0 0, -ms-linear-gradient(
+    	top,
+    	#dee0e3 0%,
+    	#e6e8eb 100%
+	);
+	background: url(../images/light-blue/background-texture.png) repeat 0 0, -moz-linear-gradient(
+    	top,
+    	#dee0e3 0%,
+    	#e6e8eb 100%
+	);
+	background: url(../images/light-blue/background-texture.png) repeat 0 0, -o-linear-gradient(
+    	top,
+    	#dee0e3 0%,
+    	#e6e8eb 100%
+	);
+	background: url(../images/light-blue/background-texture.png) repeat 0 0, -webkit-gradient(
+    	linear,
+    	left top,
+    	left bottom,
+    	color-stop(0, #dee0e3),
+    	color-stop(1, #e6e8eb)
+	);
+	background: url(../images/light-blue/background-texture.png) repeat 0 0, -webkit-gradient(
+    	top,
+    	#dee0e3 0%,
+    	#e6e8eb 100%
+	);
+	background: url(../images/light-blue/background-texture.png) repeat 0 0, linear-gradient(
+    	top,
+    	#dee0e3 0%,
+    	#e6e8eb 100%
+	);
+}
+
+tbody tr:first-child td {
+	background: #f5f7fa url(../images/light-blue/background-texture.png) repeat 0 0;
+	border-right: 1px solid #e4e6e8;
+}
+
+tbody tr:first-child td:last-child {
+	border-right: 0;
+}
+
+tbody tr:first-child td.highlight {
+	background-color: #fafcff;
+	border-right-width: 1px;
+	border-left: 0px solid #e4e6e8;
+}
+
+tbody tr.price td {
+	background: #ebedf0 url(../images/light-blue/background-texture.png) repeat 0 0;
+	border-top: 1px solid #fcfdff;
+	border-right: 1px solid #d5d6d9;
+	color: #434e59;
+	padding: 15px;
+	
+	background: url(../images/light-blue/background-texture.png) repeat 0 0, -ms-linear-gradient(
+    	top,
+    	#edeff2 0%,
+    	#e6e8eb 100%
+	);
+	background: url(../images/light-blue/background-texture.png) repeat 0 0, -moz-linear-gradient(
+    	top,
+    	#edeff2 0%,
+    	#e6e8eb 100%
+	);
+	background: url(../images/light-blue/background-texture.png) repeat 0 0, -o-linear-gradient(
+    	top,
+    	#edeff2 0%,
+    	#e6e8eb 100%
+	);
+	background: url(../images/light-blue/background-texture.png) repeat 0 0, -webkit-gradient(
+    	linear,
+    	left top,
+    	left bottom,
+    	color-stop(0, #edeff2),
+    	color-stop(1, #e6e8eb)
+	);
+	background: url(../images/light-blue/background-texture.png) repeat 0 0, -webkit-gradient(
+    	top,
+    	#edeff2 0%,
+    	#e6e8eb 100%
+	);
+	background: url(../images/light-blue/background-texture.png) repeat 0 0, linear-gradient(
+    	top,
+    	#edeff2 0%,
+    	#e6e8eb 100%
+	);
+}
+
+tbody tr.price td:last-child {
+	border-right: 0;
+}
+
+tbody tr.price td.highlight {
+	background: #e1e3e5 url(../images/light-blue/background-texture.png) repeat 0 0;
+	border-right-width: 1px;
+	border-left: 0px solid #d5d6d9;
+	
+	background: url(../images/light-blue/background-texture.png) repeat 0 0, -ms-linear-gradient(
+    	top,
+    	#e6e8eb 0%,
+    	#dee0e3 100%
+	);
+	background: url(../images/light-blue/background-texture.png) repeat 0 0, -moz-linear-gradient(
+    	top,
+    	#e6e8eb 0%,
+    	#dee0e3 100%
+	);
+	background: url(../images/light-blue/background-texture.png) repeat 0 0, -o-linear-gradient(
+    	top,
+    	#e6e8eb 0%,
+    	#dee0e3 100%
+	);
+	background: url(../images/light-blue/background-texture.png) repeat 0 0, -webkit-gradient(
+    	linear,
+    	left top,
+    	left bottom,
+    	color-stop(0, #e6e8eb),
+    	color-stop(1, #dee0e3)
+	);
+	background: url(../images/light-blue/background-texture.png) repeat 0 0, -webkit-gradient(
+    	top,
+    	#e6e8eb 0%,
+    	#dee0e3 100%
+	);
+	background: url(../images/light-blue/background-texture.png) repeat 0 0, linear-gradient(
+    	top,
+    	#e6e8eb 0%,
+    	#dee0e3 100%
+	);
+}
+
+table h3 {
+	line-height: 1em;
+	margin: 0 0 0px 0;
+}
+
+tbody ul {
+	color: #6c7680;
+	font-style: normal;
+	font-weight: normal;
+	line-height: 38px;
+	margin: 0;
+	padding: 0;
+	text-transform: uppercase;
+}
+
+tbody ul li {
+line-height:18px !important;
+	border-top: 1px solid #fcfdff;
+	border-bottom: 1px solid #e4e6e8;
+	text-align:left;
+	padding:10px 20px;
+	list-style:none;
+	font-size:12px;
+	margin: 0;
+	position: relative;
+}
+.me {
+background:#e5faff;
+border:1px solid #bee1e9;
+border-radius:20px 0 20px 20px;
+margin:20px;
+padding:10px;
+width:auto !important;
+clear:both;
+}
+.you {
+background:#ffffff;
+border:1px solid #e9e9e9;
+border-radius:0 50px 50px 50px;
+padding:10px;
+width:auto !important;
+clear:both;
+line-height:18px;
+margin:10px;
+}
+tbody ul li textarea {
+width:80%;
+max-width:80%;
+height:80px;
+border-radius:5px;
+}
+
+tbody ul li button {
+width:18%;
+float:right;
+border:none;
+background:#3399FF;
+color:#FFFFFF;
+height:80px;
+border-radius:5px;
+}
+
+tbody ul li strong {
+	color: #434e59;
+	font-size: 15px;
+	font-weight: bold;
+	text-transform: none;
+}
+
+tbody tr.price {
+	font-size: 20px;
+	font-weight: bold;
+	line-height: 1em;
+}
+
+tbody tr.price small {
+	display: block;
+	font-size: 10px;
+	font-weight: normal;
+	text-transform: uppercase;
+}
+
+tbody li .details {
+	background-color: #fcfdff;
+	border: 1px solid #d5d6d9;
+	display: none;
+	font-size: 10px;
+	font-style: normal;
+	line-height: 14px;
+	padding: 10px;
+	position: absolute;
+	left: 65%;
+	top: 30%;
+	text-transform: none;
+	width: 65%;
+	z-index: 100;
+	text-align:left;
+	
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	
+	-moz-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+	-webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+	box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+tbody li:hover .details {
+	display: block;
+}
+

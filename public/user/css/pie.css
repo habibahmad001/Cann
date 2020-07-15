@@ -1,0 +1,24 @@
+.overflower {
+overflow:hidden; 
+width:100%;
+}
+.floatL {
+float:left;
+width:100%; 
+background:#ededed;
+}
+.floatR {
+float:right; 
+width:100%;
+}
+
+#chartdiv {
+	width		: 100%;
+/*	height		: 435px;*/
+  height: 330px;
+	font-size	: 11px;
+}
+
+.chart1 {
+  height:100%; 
+}
